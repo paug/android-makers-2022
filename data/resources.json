@@ -1,10 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the community, learn new things!",
+  "title": "Android Makers Paris 2022",
+  "description": "Where the Android dream comes true!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "keywords": "event, gdg, gde, android, makers, google, programming, android, developers, androiddev, paris, france",
+  "dates": "April 25-26, 2022",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -12,6 +11,9 @@
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
+  "callForPapers": "Call for papers",
+  "callForMakers": "Call for makers",
+  "becomeASponsor": "Become A Sponsor",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -23,8 +25,13 @@
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
-  "coc": "/data/coc.md",
-  "timezoneOffset": "-180",
+  "cod": "/data/cod.md",
+  "tfr": "/data/tfr.md",
+  "privacy": "/data/privacy.md",
+  "linkEventbrite": "https://www.eventbrite.ca/e/android-makers-22-edition-tickets-104020817064",
+  "linkCallForPapers": "https://cfp.androidmakers.fr/",
+  "linkCallForMakers": "https://docs.google.com/forms/d/e/1FAIpQLSdBqVrUDkDme8dbZd6ptSKbWRjNntihoihdrsh-CtRFIjF6OA/viewform",
+  "linkBecomeASponsor": "mailto:contact@androidmakers.fr",
   "footer": {
     "blog": "Blog"
   },
@@ -37,48 +44,48 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "Google Developers Group",
+          "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
+          "name": "Paris Android User Group",
+          "url": "https://paug.fr/",
           "newTab": true
         },
         {
-          "name": "DevFest",
-          "url": "https://devfest.withgoogle.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "BeMyApp",
+          "url": "https://www.bemyapp.com/events/?&country=France",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore past events",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "Virtual Android Makers 2020",
+          "url": "https://android-makers-2020.firebaseapp.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.web.app/",
+          "name": "Android Makers Paris 2019",
+          "url": "https://android-makers-2019.firebaseapp.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.web.app/",
+          "name": "Android Makers Paris 2018",
+          "url": "https://paug.github.io/android-makers-2018/",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.web.app/",
+          "name": "Android Makers Paris 2017",
+          "url": "https://paug.github.io/android-makers-2017/",
+          "newTab": true
+        },
+        {
+          "name": "Droidcon Paris 2015",
+          "url": "http://droidcon.fr/",
           "newTab": true
         }
       ]
@@ -87,28 +94,13 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
           "name": "FAQs",
-          "url": "/faq/",
+          "url": "/faq",
+          "newTab": false
+        },
+        {
+          "name": "Code of conduct",
+          "url": "/cod",
           "newTab": false
         }
       ]
@@ -116,32 +108,24 @@
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
-  "codeOfConductBlock": {
-    "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
-    "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
-    ]
-  },
   "aboutBlock": {
-    "title": "About",
+    "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "Android Makers brings the world class experts in Android for 2 days of sessions, workshops and showcases.",
+        "label": "Explore last years session",
+        "link": "https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg/videos"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Our team creates Android Makers to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See the 2018 pictures",
+        "link": "https://photos.app.goo.gl/WDhmy1iGabI651163"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "750++"
       },
       "days": {
         "label": "Days",
@@ -149,7 +133,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "60"
       },
       "tracks": {
         "label": "Tracks",
@@ -166,20 +150,14 @@
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
-    "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
-    },
-    "toast": "We will contact you soon!"
+    "button": "Become a sponsor",
+    "link": "mailto:contact@androidmakers.fr"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Android Makers featured videos",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "See all 2019 videos",
+      "link": "https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3"
     }
   },
   "blog": {
@@ -213,11 +191,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#AndroidMakers2019 highlights",
+    "description": "Check out photos from featured talks, hands-on learning sessions, and party-hours.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/Q7XhC8uRQKdKArgp9"
     }
   },
   "mapBlock": {
@@ -237,31 +215,21 @@
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
+    "generalError": "Some error has occured. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "title": "Team",
+    "description": "Meet the team !"
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
   },
-  "feedback": {
-    "save": "Save",
-    "headline": "Review session",
-    "leaveFeedback": "to leave feedback",
-    "sendFeedbackSignedOut": "Sign in to leave feedback",
-    "feedbackRecorded": "Your saved",
-    "feedbackDeleted": "Feedback deleted",
-    "helperText": "Comments will be anonymously provided to speakers",
-    "somethingWentWrong": "Something went wrong",
-    "contentCaption": "Content quality",
-    "styleCaption": "Presentation style",
-    "deleteFeedback": "Delete",
-    "sessionClosed": "Session reviews are not open"
-  },
   "sessionDetails": {
     "contentLevel": "Content level",
+    "viewSlido": "View Slido",
+    "viewLive": "View live on the platform",
+    "viewFeedback": "Give feedback",
     "viewPresentation": "View presentation",
     "viewVideo": "View video",
     "speakers": "Speakers"
@@ -277,7 +245,7 @@
     "unsubscribe": "Unsubscribe",
     "enable": {
       "label": "Enable",
-      "link": "https://support.google.com/chrome/answer/3220216"
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
       "title": "Open"
@@ -295,20 +263,11 @@
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "What is GDG?",
+        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
-          "newTab": true
-        }
-      },
-      {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
-        "callToAction": {
-          "label": "Read more",
-          "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       }
@@ -325,8 +284,8 @@
   "filters": {
     "title": "Filters",
     "results": "Results",
-    "tags": "Tags",
     "complexity": "Complexity",
+    "languages": "Languages",
     "clear": "Clear all"
   },
   "addToHomeScreen": {

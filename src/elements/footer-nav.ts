@@ -64,14 +64,12 @@ export class FooterNav extends PolymerElement {
       </style>
 
       <div class="nav-inline" layout flex>
-        <a href="{$ organizer.url $}" target="_blank" rel="noopener noreferrer">
-          <plastic-image
-            class="footer-logo"
-            srcset="../../images/organizer-logo.svg"
-            sizing="contain"
-            alt="{$ organizer.name $}"
-            lazy-load
-          ></plastic-image>
+        <a href="https://paug.fr/" target="_blank" rel="noopener noreferrer">
+          <plastic-image class="footer-logo" srcset="../../images/organizer-paug-logo.svg" sizing="contain" alt="Paris Android User Group" lazy-load=""></plastic-image>
+        </a>
+
+        <a href="https://www.bemyapp.com/events/?&amp;country=France" target="_blank" rel="noopener noreferrer">
+          <plastic-image class="footer-logo" srcset="../../images/organizer-bma-logo.svg" sizing="contain" alt="BeMyApp" lazy-load=""></plastic-image>
         </a>
 
         <div class="copyright">

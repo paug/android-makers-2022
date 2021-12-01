@@ -57,7 +57,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           height: 32px;
           background-color: var(--default-primary-color);
           transition: background-color var(--animation);
-          -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+          -webkit-mask: url('/images/logo-monochrome.png') no-repeat;
         }
 
         .nav-items {
@@ -171,18 +171,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           </paper-tab>
           {% endfor %}
 
-          <paper-tab class="signin-tab" on-click="signIn" link hidden$="[[user.signedIn]]"
-            >{$ signIn $}</paper-tab
-          >
-
-          <a
-            href$="[[ticketUrl]]"
-            target="_blank"
-            rel="noopener noreferrer"
-            ga-on="click"
-            ga-event-category="ticket button"
-            ga-event-action="buy_click"
-          >
+          <a href="{$ linkEventbrite $}">
             <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
           </a>
         </paper-tabs>

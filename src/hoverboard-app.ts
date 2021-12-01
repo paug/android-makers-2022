@@ -190,7 +190,7 @@ export class HoverboardApp extends PolymerElement {
           <app-toolbar layout vertical start>
             <plastic-image
               class="toolbar-logo"
-              srcset="/images/logo-monochrome.svg"
+              srcset="/images/logo-monochrome.png"
               alt="{$ title $}"
             ></plastic-image>
             <h2 class="dates">{$ dates $}</h2>
@@ -215,22 +215,11 @@ export class HoverboardApp extends PolymerElement {
             <div>
               <app-install></app-install>
 
-              <a
-                class="bottom-drawer-link"
-                href$="[[ticketUrl]]"
-                target="_blank"
-                rel="noopener noreferrer"
-                on-click="closeDrawer"
-                ga-on="click"
-                ga-event-category="ticket button"
-                ga-event-action="buy_click"
-                layout
-                horizontal
-                center
-              >
+              <a href="{$ linkEventbrite $}">
                 <span>{$ buyTicket $}</span>
                 <iron-icon icon="hoverboard:open-in-new"></iron-icon>
               </a>
+              
             </div>
           </div>
         </app-drawer>

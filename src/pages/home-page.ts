@@ -2,16 +2,16 @@ import { customElement, property } from '@polymer/decorators';
 import '@polymer/iron-icon';
 import { html, PolymerElement } from '@polymer/polymer';
 import '../components/about-block';
-import '../elements/about-organizer-block';
+// import '../elements/about-organizer-block';
 import '../elements/featured-videos';
-import '../elements/fork-me-block';
+// import '../elements/fork-me-block';
 import '../elements/gallery-block';
-import '../elements/latest-posts-block';
-import '../elements/map-block';
+// import '../elements/latest-posts-block';
+// import '../elements/map-block';
 import '../elements/partners-block';
-import '../elements/speakers-block';
-import '../elements/subscribe-block';
-import '../elements/tickets-block';
+// import '../elements/speakers-block';
+// import '../elements/subscribe-block';
+// import '../elements/tickets-block';
 import { firebaseApp } from '../firebase';
 import { ELEMENTS, getElement } from '../global';
 import { ReduxMixin } from '../mixins/redux-mixin';
@@ -149,7 +149,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <div class="home-content" layout vertical center>
           <plastic-image
             class="hero-logo"
-            srcset="/images/logo.svg"
+            srcset="/images/logo.png"
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">
@@ -158,17 +158,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </div>
 
           <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button
-              class="watch-video"
-              on-click="_playVideo"
-              ga-on="click"
-              ga-event-category="video"
-              ga-event-action="watch"
-              ga-event-label="hero block - view highlights"
-            >
-              <iron-icon icon="hoverboard:movie"></iron-icon>
-              {$ viewHighlights $}
-            </paper-button>
+
+            <a href="{$ linkEventbrite $}">
             <paper-button
               on-click="_scrollToTickets"
               ga-on="click"
@@ -181,6 +172,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               {$ buyTicket $}
             </paper-button>
+            </a>
+            
           </div>
 
           <div class="scroll-down" on-click="_scrollNextBlock">

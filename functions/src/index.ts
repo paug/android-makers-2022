@@ -10,8 +10,8 @@ import { mailchimpSubscribe } from './mailchimp-subscribe.js';
 import { sendGeneralNotification } from './notifications.js';
 import { optimizeImages } from './optimize-images.js';
 import { prerender } from './prerender.js';
-import { saveUserData } from './save-user-data.js';
-import { scheduleNotifications } from './schedule-notifications.js';
+// import { saveUserData } from './save-user-data.js';
+// import { scheduleNotifications } from './schedule-notifications.js';
 
 // TODO: Update `tsconfig.json`
 // - "noImplicitReturns": true,
@@ -20,9 +20,9 @@ import { scheduleNotifications } from './schedule-notifications.js';
 initializeApp();
 
 export {
-  saveUserData,
+  // saveUserData,
   sendGeneralNotification,
-  scheduleNotifications,
+  // scheduleNotifications,
   optimizeImages,
   mailchimpSubscribe,
   prerender,

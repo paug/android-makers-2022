@@ -79,9 +79,10 @@ export class AboutBlock extends ThemedElement {
           </a>
 
           <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
+
+          <a href={$ aboutBlock.callToAction.howItWas.link $}
           <paper-button
             class="animated icon-right"
-            @click="${this.playVideo}"
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
@@ -90,6 +91,8 @@ export class AboutBlock extends ThemedElement {
             <span>{$ aboutBlock.callToAction.howItWas.label $}</span>
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
+          </a>
+          
         </div>
 
         <div class="statistics-block">
