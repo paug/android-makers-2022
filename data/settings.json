@@ -93,20 +93,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "",
+    "name": "Le Beffroi de Montrouge",
     "city": "Paris",
     "short": "Paris, France",
-    "address": "",
+    "address": "Av. de la République, 92120 Montrouge",
     "pointer": {
       "latitude": 48.81914779472318, 
       "longitude": 2.3195728136340934,
-      "zoom": 5
+      "zoom": 6
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": ""
+    "description": "Le Beffroi de Montrouge"
   },
   "mediaQueries": {
     "xs": {

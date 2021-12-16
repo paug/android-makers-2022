@@ -7,7 +7,7 @@ import '../elements/featured-videos';
 // import '../elements/fork-me-block';
 import '../elements/gallery-block';
 // import '../elements/latest-posts-block';
-// import '../elements/map-block';
+import '../elements/map-block';
 import '../elements/partners-block';
 // import '../elements/speakers-block';
 // import '../elements/subscribe-block';
