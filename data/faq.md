@@ -78,3 +78,64 @@ Smoking is only permitted in designated outdoor smoking areas.
 ### No Soliciting
 
 No solicitation or selling of items or services is allowed at Android Makers. Any attendee conducting these activities may be removed from the conference.
+
+## COVID-19 context
+
+### What are the necessary requirements to access the event?
+
+**Android Makers will strictly comply with all local and national governmental measures** put in place to prevent the spread of COVID-19. These measures may be subject to change over the upcoming months, if so we will make sure to post updates.
+
+Nonetheless, attendees should expect to provide one or more of the following documents, always on the basis that the individual is vaccinated and/or can provide proof that they are at no risk of spreading, catching or putting people at risk of COVID-19.
+
+Upon entering the event, all attendees will be required to show a sanitary pass which will be one of the following:
+
+- **Proof that they have been fully vaccinated**
+- **Proof of recovery from COVID-19**
+- **A negative PCR-test, or antigen test**
+
+For more information (type and duration of tests accepted, type of vaccine, etc.) and any other necessary requirements click here: [https://www.service-public.fr/particuliers/actualites/A15121?lang=en](https://www.service-public.fr/particuliers/actualites/A15121?lang=en)
+
+Unfortunately, any attendees unable to provide any of the documents listed above will be denied access to the event. We also ask that anyone attending the event showing ANY symptoms of COVID-19 (despite holding a negative test) does not attend the event, and may be refused at the door.
+
+### What measures are put in place to prevent COVID-19 during the event?
+
+The health and safety of everyone attending the event is our utmost priority. For that reason we are taking all the necessary safety measures in compliance with the national health authorities:
+Other than providing the aforementioned documents (proof of vaccination, negative PCR-test, or proof of recovery from COVID-19), we ask our attendees to follow all safety protocols and to take an active role in preventing the spread of the virus through hygiene precautions such as:
+
+- Disinfecting your hands regularly
+- Wearing a mask throughout the duration of the event
+- Avoid handshakes and hugs
+- Make sure to cough or sneeze into your elbow or tissue (and immediately dispose of the tissue)
+- Maintain social distancing whenever possible.
+
+The event hall is equipped with all necessary safety measures, meeting the government's regulatory standards, such as:
+
+- Numerous antibacterial gels,
+- Mechanic ventilation system regularly renewing airflow
+- Systematic cleaning and disinfection of surfaces and common areas
+
+### If I have COVID-19 symptoms, can I still come to the event?
+
+No. If you are showing any signs of COVID-19 (fever, cough, tiredenes, loss of smell) then we ask you to please not attend the event to avoid spreading the virus to others.
+
+### What are the circumstances under which the event will be cancelled?
+
+The event will only be cancelled if ordered by the national authorities who have put in place a national/regional lockdown, closing of cultural venues, or due to any other force-majeure that will deny us the possibility of hosting the event.
+
+### Can my ticket be refunded?
+
+#### If I’m worried about, or am positive from COVID-19
+
+If the event will take place, respecting the national health authorities safety protocols, and you cannot attend the event then unfortunately the ticket is non-refundable.
+
+#### If the event is canceled due to local policies
+
+In the circumstances that the event is cancelled due to a national/regional lockdown, closing of cultural venues, or any other force-majeure that is out beyond the responsibility of the organisers, the attendees will therefore be entitled to a full refund of the tickets.
+
+#### For any other reasons
+
+The same rules apply for any other reason despite being non-related to COVID-19.
+
+## What do I need to know if I’m traveling from abroad?
+
+Remember to check your foreign travel policies, as well as local and national rules beforehand. For more information check [https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/informations-pratiques/article/coronavirus-covid-19](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/informations-pratiques/article/coronavirus-covid-19)
