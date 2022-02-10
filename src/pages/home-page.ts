@@ -178,8 +178,17 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             <paper-button
               primary
             >
-              <iron-icon icon="hoverboard:work"></iron-icon>
+              <iron-icon icon="hoverboard:presentation"></iron-icon>
               {$ callForPapers $}
+            </paper-button>
+            </a>
+
+            <a href="{$ linkBecomeASponsor $}">
+            <paper-button
+              primary
+            >
+              <iron-icon icon="hoverboard:work"></iron-icon>
+              {$ becomeASponsor $}
             </paper-button>
             </a>
 
