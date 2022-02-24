@@ -25,7 +25,7 @@
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
+  "coc": "/data/coc.md",
   "tfr": "/data/tfr.md",
   "privacy": "/data/privacy.md",
   "linkEventbrite": "https://www.eventbrite.ca/e/android-makers-22-edition-tickets-104020817064",
@@ -100,7 +100,7 @@
         },
         {
           "name": "Code of conduct",
-          "url": "/cod",
+          "url": "/coc",
           "newTab": false
         }
       ]

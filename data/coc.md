@@ -1,43 +1,47 @@
-### Introduction
+### 1. Purpose
 
-{$ title $} is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. {$ title $} takes violations of our policy seriously and will respond appropriately.
+A primary goal of Android Makers team is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
+Android Makers team prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at this event.
 
-### Policy
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
 
-All participants of {$ title $} events must abide by the following policy:
+### 2. Open [Source/Culture/Tech] Citizenship
 
-1. Be excellent to each other. We want the event to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be here -- and each of us has the right to enjoy our experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
-2. Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
-3. Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
-4. Practice saying "Yes and" to each other. It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-### Scope
+### 3. Expected Behavior
 
-This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. {$ title $} reserves the right to refuse admittance to, or remove any person from, any {$ title $} hosted event (including future {$ title $} events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund.
+The following behaviors are expected and requested of all community members:
 
-Our event staff can usually be identified by special badges/attire. Our zero-tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. Please note, while we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before a conflict.
+- Refrain from demeaning, discriminatory, or harassing behavior and speech.
+- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 
-Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance.
+### 4. Unacceptable Behavior
 
-Exhibiting partners, sponsors or vendor booths, or similar activities are also subject to this policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. Participants and exhibiting partners or sponsors disobeying this policy will be notified and are expected to stop any offending behavior immediately.
+The following actions are considered harassment and are unacceptable within our community:
 
-### Why this policy is important
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+- Posting or displaying sexually explicit or violent material.
+- Posting or threatening to post other people’s personally identifying information ("doxing").
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone’s consent before touching them.
+- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following (online or in person).
+- Advocating for, or encouraging, any of the above behavior.
+- Sustained disruption of community events, including talks and, presentations.
 
-Harassment at events and in online communities is unfortunately common. Creating an official policy aims to improve this by making it clear that harassment of anyone for any reason is not acceptable within our events and communities. This policy may prevent harassment by clearly defining expectations for behavior, aims to provide reassurance, and encourages people who have had bad experiences at other events to participate in this one.
+### 5. Consequences of Unacceptable Behavior
 
-### License and attribution
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-This policy is [licensed](https://support.google.com/developergroups/answer/3340512) under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
+### 6. Scope
 
-This policy is based on and influenced by several other community policies including Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
-
-### Report incident
-
-To report an incident look for a staff member by badge/attire or contact our incident response team below:
-{% for contact in codeOfConductBlock.contacts %}
-
-- {$ contact $}{% endfor %}
-
-#### Anonymous report
-
-You can make an anonymous report [here]({$ codeOfConductBlock.form $}). We can't follow up with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
