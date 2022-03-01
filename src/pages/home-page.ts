@@ -183,6 +183,15 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             </paper-button>
             </a>
 
+            <a href="{$ linkCallForMakers $}">
+            <paper-button
+              primary
+            >
+              <iron-icon icon="hoverboard:presentation"></iron-icon>
+              {$ callForMakers $}
+            </paper-button>
+            </a>
+
           </div>
 
           <div class="scroll-down" on-click="_scrollNextBlock">
