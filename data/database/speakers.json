@@ -1,0 +1,42 @@
+{
+    "379c162aac12eca2deca690287b54ad270cc2e40": {
+        "name": "Chet Haase",
+        "featured": true,
+        "bio": "Chet has been on the Android team since 2010, first as an engineer and then lead on the UI Toolkit team, then as Android's Chief Advocate on the developer relations team, and now as an engineer on the Android Graphics team. He enjoys hacking code for graphics, UI, performance, and then talking to developers about it at conferences like this.",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "photo": "/images/people/chet_haase.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/chethaase",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://www.chethaase.com/",
+                "name": "Blog"
+            }
+        ]
+    },
+    "4a7ca4c16cbe81a612bf3011a3d3439f85408103": {
+        "name": "Romain Guy",
+        "featured": true,
+        "bio": "Engineering director at Google on Android",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "photo": "/images/people/romain_guy.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/romainguy",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://www.curious-creature.com",
+                "name": "Blog"
+            }
+        ]
+    }
+}
