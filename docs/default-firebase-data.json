@@ -73,65 +73,116 @@
     }
   },
   "partners": [
-      {
-          "items": [
-              {
-                  "order": 0,
-                  "logoUrl": "../images/logos/bitrise.svg",
-                  "name": "Bitrise",
-                  "url": "http://bitrise.io/"
-              }
-          ],
+    {
+      "items": [
+        {
           "order": 0,
-          "title": "Gold sponsor"
-      },
-      {
-          "items": [
-              {
-                  "order": 0,
-                  "logoUrl": "../images/logos/coyote.png",
-                  "name": "Coyote",
-                  "url": "https://corporate.moncoyote.com/"
-              },
-              {
-                  "order": 1,
-                  "logoUrl": "../images/logos/exomind.png",
-                  "name": "Exomind",
-                  "url": "https://www.exomind.fr/"
-              }
-          ],
+          "logoUrl": "../images/logos/bitrise.svg",
+          "name": "Bitrise",
+          "url": "http://bitrise.io/"
+        }
+      ],
+      "order": 0,
+      "title": "Gold sponsor"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/coyote.png",
+          "name": "Coyote",
+          "url": "https://corporate.moncoyote.com/"
+        },
+        {
           "order": 1,
-          "title": "Silver sponsors"
-      },
-      {
-          "items": [
-              {
-                  "order": 1,
-                  "logoUrl": "../images/logos/deezer.svg",
-                  "name": "Deezer",
-                  "url": "hhttps://www.deezer.com/en/company/about"
-              }
-          ],
-          "order": 2,
-          "title": "Virtual sponsors"
-      },
-      {
-          "items": [
-              {
-                  "order": 0,
-                  "logoUrl": "../images/logos/gdg-lviv.svg",
-                  "name": "GDG Lviv",
-                  "url": "https://www.meetup.com/GDG-Lviv/"
-              }
-          ],
-          "order": 3,
-          "title": "Template Creator"
-      }
+          "logoUrl": "../images/logos/exomind.png",
+          "name": "Exomind",
+          "url": "https://www.exomind.fr/"
+        }
+      ],
+      "order": 1,
+      "title": "Silver sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/deezer.svg",
+          "name": "Deezer",
+          "url": "hhttps://www.deezer.com/en/company/about"
+        }
+      ],
+      "order": 2,
+      "title": "Virtual sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://www.meetup.com/GDG-Lviv/"
+        }
+      ],
+      "order": 3,
+      "title": "Template Creator"
+    }
   ],
   "schedule": {},
   "sessions": {},
   "speakers": {
-    
+    "379c162aac12eca2deca690287b54ad270cc2e40": {
+      "name": "Chet Haase",
+      "featured": true,
+      "bio": "Chet has been on the Android team since 2010, first as an engineer and then lead on the UI Toolkit team, then as Android's Chief Advocate on the developer relations team, and now as an engineer on the Android Graphics team. He enjoys hacking code for graphics, UI, performance, and then talking to developers about it at conferences like this.",
+      "shortBio": "Chet has been on the Android team since 2010...",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl": "",
+      "country": "USA",
+      "order": 0,
+      "photo": "/images/people/chet_haase.jpg",
+      "photoUrl": "",
+      "title": "engineer on the Android Graphics team",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/chethaase",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.chethaase.com/",
+          "name": "Blog"
+        }
+      ]
+    },
+    "4a7ca4c16cbe81a612bf3011a3d3439f85408103": {
+      "name": "Romain Guy",
+      "featured": true,
+      "bio": "Engineering director at Google on Android",
+      "shortBio": "Engineering director at Google...",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl": "",
+      "country": "USA",
+      "order": 1,
+      "photo": "/images/people/romain_guy.jpg",
+      "photoUrl": "",
+      "title": "Engineering director at Google",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/romainguy",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.curious-creature.com",
+          "name": "Blog"
+        }
+      ]
+    }
   },
   "team": [
     {
