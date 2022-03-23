@@ -9,7 +9,7 @@ import '../elements/gallery-block';
 // import '../elements/latest-posts-block';
 import '../elements/map-block';
 import '../elements/partners-block';
-// import '../elements/speakers-block';
+import '../elements/speakers-block';
 // import '../elements/subscribe-block';
 // import '../elements/tickets-block';
 import { firebaseApp } from '../firebase';

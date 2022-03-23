@@ -138,9 +138,11 @@
       "shortBio": "Chet has been on the Android team since 2010...",
       "company": "Google",
       "companyLogoUrl": "/images/logos/google.svg",
+      "companyLogo": "",
       "country": "USA",
       "order": 0,
       "photoUrl": "/images/people/chet_haase.jpg",
+      "photo": "",
       "title": "engineer on the Android Graphics team",
       "socials": [
         {
@@ -162,9 +164,11 @@
       "shortBio": "Engineering director at Google...",
       "company": "Google",
       "companyLogoUrl": "/images/logos/google.svg",
+      "companyLogo": "",
       "country": "USA",
       "order": 1,
       "photoUrl": "/images/people/romain_guy.jpg",
+      "photo": "",
       "title": "Engineering director at Google",
       "socials": [
         {

@@ -22,6 +22,11 @@
       "route": "home",
       "permalink": "/",
       "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers",
+      "label": "Speakers"
     }
   ],
   "heroSettings": {
@@ -43,8 +48,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of Android. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of Android. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
