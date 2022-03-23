@@ -9,7 +9,37 @@
             }
         ],
         "order": 0,
-        "title": "Gold"
+        "title": "Gold sponsor"
+    },
+    {
+        "items": [
+            {
+                "order": 0,
+                "logoUrl": "../images/logos/coyote.png",
+                "name": "Coyote",
+                "url": "https://corporate.moncoyote.com/"
+            },
+            {
+                "order": 1,
+                "logoUrl": "../images/logos/exomind.png",
+                "name": "Exomind",
+                "url": "https://www.exomind.fr/"
+            }
+        ],
+        "order": 1,
+        "title": "Silver sponsors"
+    },
+    {
+        "items": [
+            {
+                "order": 1,
+                "logoUrl": "../images/logos/deezer.svg",
+                "name": "Deezer",
+                "url": "hhttps://www.deezer.com/en/company/about"
+            }
+        ],
+        "order": 2,
+        "title": "Virtual sponsors"
     },
     {
         "items": [
@@ -20,7 +50,7 @@
                 "url": "https://www.meetup.com/GDG-Lviv/"
             }
         ],
-        "order": 1,
+        "order": 2,
         "title": "Template Creator"
     }
 ]

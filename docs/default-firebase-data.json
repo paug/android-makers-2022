@@ -73,34 +73,66 @@
     }
   },
   "partners": [
-    {
-      "items": [
-        {
+      {
+          "items": [
+              {
+                  "order": 0,
+                  "logoUrl": "../images/logos/bitrise.svg",
+                  "name": "Bitrise",
+                  "url": "http://bitrise.io/"
+              }
+          ],
           "order": 0,
-          "logoUrl": "../images/logos/bitrise.svg",
-          "name": "Bitrise",
-          "url": "http://bitrise.io/"
-        }
-      ],
-      "order": 0,
-      "title": "Gold"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://www.meetup.com/GDG-Lviv/"
-        }
-      ],
-      "order": 1,
-      "title": "Template Creator"
-    }
+          "title": "Gold sponsor"
+      },
+      {
+          "items": [
+              {
+                  "order": 0,
+                  "logoUrl": "../images/logos/coyote.png",
+                  "name": "Coyote",
+                  "url": "https://corporate.moncoyote.com/"
+              },
+              {
+                  "order": 1,
+                  "logoUrl": "../images/logos/exomind.png",
+                  "name": "Exomind",
+                  "url": "https://www.exomind.fr/"
+              }
+          ],
+          "order": 1,
+          "title": "Silver sponsors"
+      },
+      {
+          "items": [
+              {
+                  "order": 1,
+                  "logoUrl": "../images/logos/deezer.svg",
+                  "name": "Deezer",
+                  "url": "hhttps://www.deezer.com/en/company/about"
+              }
+          ],
+          "order": 2,
+          "title": "Virtual sponsors"
+      },
+      {
+          "items": [
+              {
+                  "order": 0,
+                  "logoUrl": "../images/logos/gdg-lviv.svg",
+                  "name": "GDG Lviv",
+                  "url": "https://www.meetup.com/GDG-Lviv/"
+              }
+          ],
+          "order": 3,
+          "title": "Template Creator"
+      }
   ],
   "schedule": {},
   "sessions": {},
-  "speakers": {},
+  "speakers": {
+    
+  },
   "team": [
     {
       "members": [],
