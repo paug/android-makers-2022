@@ -1,0 +1,26 @@
+[
+    {
+        "items": [
+            {
+                "order": 0,
+                "logoUrl": "../images/logos/bitrise.svg",
+                "name": "Bitrise",
+                "url": "http://bitrise.io/"
+            }
+        ],
+        "order": 0,
+        "title": "Gold"
+    },
+    {
+        "items": [
+            {
+                "order": 0,
+                "logoUrl": "../images/logos/gdg-lviv.svg",
+                "name": "GDG Lviv",
+                "url": "https://www.meetup.com/GDG-Lviv/"
+            }
+        ],
+        "order": 1,
+        "title": "Template Creator"
+    }
+]
