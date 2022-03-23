@@ -137,12 +137,10 @@
       "bio": "Chet has been on the Android team since 2010, first as an engineer and then lead on the UI Toolkit team, then as Android's Chief Advocate on the developer relations team, and now as an engineer on the Android Graphics team. He enjoys hacking code for graphics, UI, performance, and then talking to developers about it at conferences like this.",
       "shortBio": "Chet has been on the Android team since 2010...",
       "company": "Google",
-      "companyLogo": "/images/logos/google.svg",
-      "companyLogoUrl": "",
+      "companyLogoUrl": "/images/logos/google.svg",
       "country": "USA",
       "order": 0,
-      "photo": "/images/people/chet_haase.jpg",
-      "photoUrl": "",
+      "photoUrl": "/images/people/chet_haase.jpg",
       "title": "engineer on the Android Graphics team",
       "socials": [
         {
@@ -163,12 +161,10 @@
       "bio": "Engineering director at Google on Android",
       "shortBio": "Engineering director at Google...",
       "company": "Google",
-      "companyLogo": "/images/logos/google.svg",
-      "companyLogoUrl": "",
+      "companyLogoUrl": "/images/logos/google.svg",
       "country": "USA",
       "order": 1,
-      "photo": "/images/people/romain_guy.jpg",
-      "photoUrl": "",
+      "photoUrl": "/images/people/romain_guy.jpg",
       "title": "Engineering director at Google",
       "socials": [
         {
