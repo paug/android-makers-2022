@@ -101,11 +101,11 @@
     "name": "Le Beffroi de Montrouge",
     "city": "Paris",
     "short": "Paris, France",
-    "address": "Av. de la République, 92120 Montrouge",
+    "address": "Avenue de la République, 92120 Montrouge",
     "pointer": {
       "latitude": 48.81914779472318, 
       "longitude": 2.3195728136340934,
-      "zoom": 6
+      "zoom": 5.8
     },
     "mapCenter": {
       "latitude": 48,
