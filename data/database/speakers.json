@@ -95,9 +95,22 @@
     "37f10fced5aa69b828135567a03a2aaed66621d0": {
         "name": "Marion Hayoun",
         "featured": false,
-        "bio": "",
+        "bio": "Hello \ud83d\udc4b I'm Marion an Android Developer since 2012. For the past years I've been working at Dashlane contributing to our password manager and much more. I'm also leading the Paris Android User Group: https://www.meetup.com/Android-Paris/",
+        "company": "Dashlane",
+        "companyLogo": "/images/logos/dashlane.svg",
         "photo": "/images/people/marion_hayoun.jpg",
-        "socials": []
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/loutry",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://blog.dashlane.com/",
+                "name": "Blog"
+            }
+        ]
     },
     "fb805760b311d7dea7963afcd97f9613303f7722": {
         "name": "Sandra Dupre",
@@ -809,6 +822,94 @@
                 "icon": "website",
                 "link": "https://cafonsomota.xyz/",
                 "name": "Blog"
+            }
+        ]
+    },
+    "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce": {
+        "name": "Jonathan Salamon",
+        "featured": false,
+        "bio": "Android Developer @ Dashlane for almost 5 years, I work on innovative features with high expectations in terms of both performance and security.\n\nFan of new technologies (virtual reality, wearables, ..) I have been able to contribute (as employee, auto-entrepreneur or volunteer) to many projects involving cutting-edge technologies.\n\nI love to learn and I'm happy to have been able to work on various domains such as web front-end/back-end apps, mobile game development, android apps targeting B2C/B2B audiences and even helped to create new wearables products.",
+        "company": "Dashlane",
+        "companyLogo": "/images/logos/dashlane.svg",
+        "photo": "/images/people/jonathan_salamon.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/J_TheFrench",
+                "name": "Twitter"
+            }
+        ]
+    },
+    "8cf6953f3044bbd7a00c1da22f5df6b54be26b6f": {
+        "name": "Zhenlei Ji",
+        "featured": false,
+        "bio": "Zhenlei is an Android engineer at N26 developing the first mobile bank app in Europe. He was previously part of the team at Venturus in Brazil, where he also got the chance to work with various partners (Sony Mobile, Motorola, etc) on their Android projects.\n\nHe has not only been developing for Android since Gingerbread but he also contributed to the AOSP (Android Open Source Project) in the Android Framework UI/UX team. He also has experience with test automation.\n\nBesides that, he is an origami enthusiast that tries to fold a piece of paper in his spare time.",
+        "company": "N26",
+        "companyLogo": "/images/logos/n26.svg",
+        "photo": "/images/people/zhenlei_ji.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/zhenleiji",
+                "name": "Twitter"
+            }
+        ]
+    },
+    "11c3eef1aefb87fb11d7beee2a2e4e891604b3e2": {
+        "name": "Hugo Gresse",
+        "featured": false,
+        "bio": "Mobile developer for Pl@ntNet app at INRIA, Montpellier, France\n\nPreviously: - lead android developer at Teads\n\nAlso a web developer and open source contributors: - openfeedback.io - bataille.ovh - more on github\n\nCr\u00e9ator of Montpellier Android User Group, board member of Montpellier Tech Hub and co-organizer of SunnyTech",
+        "photo": "/images/people/hugo_gresse.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/HugoGresse",
+                "name": "Twitter"
+            }
+        ]
+    },
+    "7db892d8db121e3c2b47441a73d08b125029431e": {
+        "name": "Titouan Thibaud",
+        "featured": false,
+        "bio": "Android Engineer at Innovorder",
+        "company": "Innovorder",
+        "companyLogo": "/images/logos/innovorder.svg",
+        "photo": "/images/people/titouan_thibaud.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/TitouanThibaud",
+                "name": "Twitter"
+            }
+        ]
+    },
+    "65a10ef193706d1eac513be7fd840171227470ce": {
+        "name": "Pablo Gamito",
+        "featured": false,
+        "bio": "Software Engineer at Google in the Android Framework team in Zurich with a focus on window management and animations, alongside the tooling to debug and prevent flickers during window animations.",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "photo": "/images/people/pablo_gamito.jpg",
+        "socials": [
+            {
+                "icon": "website",
+                "link": "https://pablogamito.com",
+                "name": "Blog"
+            }
+        ]
+    },
+    "7c3c8d4952ab519203050d818cb1f3d6193ec605": {
+        "name": "Vadim Caen",
+        "featured": false,
+        "bio": "Vadim is a Software Engineer at Google. He worked on Android Studio during 3 years in London and is now part of the Android Framework team, working on the Window Manager.",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "photo": "/images/people/vadim_caen.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/vadimcaen",
+                "name": "Twitter"
             }
         ]
     }

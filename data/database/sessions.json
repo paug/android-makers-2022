@@ -5,7 +5,8 @@
             "37f10fced5aa69b828135567a03a2aaed66621d0",
             "fb805760b311d7dea7963afcd97f9613303f7722",
             "d2a0ee8397721dab722a6f969532df215dad171c",
-            "7efc198c67dc2f4c71df042e3a7e7d16c601c976"
+            "7efc198c67dc2f4c71df042e3a7e7d16c601c976",
+            "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce"
         ],
         "description": "Have you ever wondered how things were in other companies? How is your concurrent team organized, what is their Android team size? Wait, team can grow and still make contribution easy? Or are you looking for tips or small improvements to create a better working environment? Joining a new team? Interested in knowing a concrete plan to address code debt? What were the worst project/decision x or y were part of?\n\nWonder no more 💡 During this roundtable, I, Marion Hayoun [Dashlane] -your facilitator- will ask all those questions to Anita Singh [Gorillas], Sandra Dupré [Disney streaming services] and Syrine Trabelsi [Trainline].\n\nBe ready to take notes and bring back homework :)",
         "language": "English",
@@ -322,18 +323,6 @@
             "d0233195e347b6929d84b4f2b3b9cf2084503bff"
         ]
     },
-    "DII-9612": {
-        "title": "Sharing code among multiple projects: the case of private libraries",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English/French",
-        "description": "As tech companies grow, they often find the need to develop multiple projects or applications in order to better address their challenges. Along with its main app, Deezer has also released Deezer for Creators, Audiobooks by Deezer, Android-TV apps, and (soon) a public SDK. Many other businesses have expanded as well - you can think of Uber with Uber Eats or BlaBlaCar with BlaBlaCar Daily for instance.\n\nThese applications share a lot of common code, from authentication to playback engine, to Design System. Is there a way to factorise it? At Deezer, we chose to publish our code in libraries, which led us to reflect on:\n- the content of these libraries\n- the extraction of features and components into a library\n- the organisation of the libraries (e.g. single or multiple libraries, library modules)\n- the versioning and the handling of repositories (monorepo vs multiple repos)\n- the release of libraries and their integration into projects\n\nOur return on experience will help you discover possible solutions, better understand the pitfalls to avoid (as we fell into some of them), and see how private libraries could benefit your own organisation",
-        "complexity": "Intermediate",
-        "speakers": [
-            "675ce05144893df92af77c3fb33b55065fc15911"
-        ]
-    },
     "IUO-6413": {
         "title": "Develop your CI tools",
         "tags": [
@@ -502,6 +491,67 @@
         "complexity": "Intermediate",
         "speakers": [
             "aaec18080e28068c1d725fb7747a77a26df8dcd8"
+        ]
+    },
+    "JWZ-4774": {
+        "title": "Life is too short to develop only for Android - A journey to Server-driven UI",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Have you ever had to implement a last minute feature? Did your requirements change? Is your build slow?\n\nServer-driven UI might be the solution to your problems. In this talk, I will discuss how we designed a multi-platform system to build new screens via a simple backend change without having to release new versions of the native apps.\n\nAfter this talk, you will be able to ship features faster on all platforms simultaneously, you will notice that life is too short to develop only for Android.",
+        "complexity": "Beginner",
+        "speakers": [
+            "8cf6953f3044bbd7a00c1da22f5df6b54be26b6f"
+        ]
+    },
+    "DII-9612": {
+        "title": "Comment mutualiser du code à l’aide de bibliothèques internes",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Au sein des entreprises tech, le développement de plusieurs applications devient une pratique de plus en plus courante afin d'adresser de nouvelles opportunités. En plus de son application principale, Deezer est également à l'origine de Deezer for Creators, Audiobooks by Deezer, et un SDK pour ses partenaires. D’autres entreprises ont fait de même, comme Uber avec Uber Eats ou Blablacar avec Blablacar Daily.\n\nLes applications Deezer ont de nombreux composants techniques en commun, de l’authentification au Design System, en passant par le player. Chez Deezer, nous partageons ces composants avec des bibliothèques, ce qui nous a amené à réfléchir à:\n- leur contenu,\n- l’extraction de composants dans des bibliothèques,\n- leur organisation (une ou plusieurs bibliothèques, modularisation),\n- la gestion des repo (mono ou multiple) et le versioning,\n- la publication des bibliothèques et leur intégration dans les projets.\nNotre retour d'expérience vous permettra de découvrir différentes solutions, de mieux comprendre les pièges à éviter (dans lesquels nous sommes parfois tombés), et d'évaluer le bénéfice potentiel de l'utilisation de librairies au sein de votre organisation.",
+        "complexity": "Intermediate",
+        "speakers": [
+            "675ce05144893df92af77c3fb33b55065fc15911"
+        ]
+    },
+    "SGC-3820": {
+        "title": "Retour d'expérience sur React Native dans Pl@ntNet",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Presque 3 ans après le déploiement de la nouvelle version majeure de PlantNet sous React Native, faisons un point sur les problèmes et avantages d’une application en production avec 30M d’utilisateurs par an sur Android et iOS. ​Il y a beaucoup de désavantages ​à React Native mais est-ce que ça s’équilibre avec les points positifs ?",
+        "complexity": "Intermediate",
+        "speakers": [
+            "11c3eef1aefb87fb11d7beee2a2e4e891604b3e2"
+        ]
+    },
+    "JEA-0128": {
+        "title": "How we migrated the CI / CD of our Android app to GitHub Actions",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English/French",
+        "description": "In any software development process, the CI/CD is a crucial piece that helps teams catch the problems early, improve the code quality, automate the release process, among other benefits.\n\nAt Innovorder, we used to work with a legacy CI/CD based on Google Cloud Build. It was hard to maintain mainly because no-one in the team really knew how it worked and because of a lack of good documentation, so we ended up deciding to build a new and more reliable CI/CD.\n\nIn this session, I’ll share the story of how we migrated to GitHub Actions. Outline challenges we faced and how we solved them. And finally show how we went even further, by improving on the previously existant CI in different ways, including :\n\n- improving the use of resources by canceling the workflows running on the previous commits when a new commit is pushed to a branch\n- display the results of the Unit Tests directly in the Workflow result page\n- add timeout to steps that can run forever because of a call to an external service\n- send a Slack notification with all the important information about the workflow run",
+        "complexity": "Beginner",
+        "speakers": [
+            "7db892d8db121e3c2b47441a73d08b125029431e"
+        ]
+    },
+    "QLZ-2276": {
+        "title": "Behind the scene, a dive into the Window Manager",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "The window manager is a strange beast. Only the tip of the iceberg is available as an API to developers, but behind the scene, it directs all the user interface. Let's get into a journey to understand what the 🦭 is going one under the (API) surface.",
+        "complexity": "Intermediate",
+        "speakers": [
+            "7c3c8d4952ab519203050d818cb1f3d6193ec605",
+            "65a10ef193706d1eac513be7fd840171227470ce"
         ]
     }
 }
