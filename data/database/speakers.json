@@ -175,9 +175,16 @@
     "a14457ee24a86a604c55d6774bed5483b630e78f": {
         "name": "Eyal LEZMY",
         "featured": false,
-        "bio": "",
+        "bio": "- Android Lead at TAG Heuer\n- Treasurer at the Paris Android User Group\n- Co-organizer of Android Makers in Paris\n- Google Developer Expert\n\nI've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, worked several years on Genymotion, an Android emulator. Then I joined Qonto a French B2B bank to build their Android app. And in 2019 I joined TAG Heuer to build their connected watches and ecosystem.",
         "photo": "/images/people/eyal_lezmy.jpg",
-        "socials": []
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/Eyal_Lezmy",
+                "name": "Twitter"
+            }
+        ]
+
     },
     "796eb17edbb8dcd0f24ffd465235ab05beb57018": {
         "name": "Alejandra Stamato",
