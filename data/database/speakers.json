@@ -127,13 +127,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-sebastiano-poggi",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 4
     },
@@ -185,13 +178,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 6
     },
@@ -214,13 +200,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 7
     },
@@ -241,13 +220,6 @@
                 "icon": "website",
                 "link": "https://speakerdeck.com/syrinet",
                 "name": "Website"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
             }
         ],
         "country": "",
@@ -455,13 +427,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-christopher-banes",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 16
     },
@@ -508,13 +473,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 18
     },
@@ -528,13 +486,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/divyajain2405",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
             }
         ],
         "country": "",
@@ -575,18 +526,6 @@
         "bio": "Android Engineer working on Disney+ and Star+ apps at Disney Streaming. I have been working as a Software Engineer for more than 10 years, 8 of them building mobile apps from Games to Video Streaming.",
         "photoUrl": "/images/people/guilherme_branco.jpg",
         "socials": [],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            },
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-julien-salvi",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 21
     },
@@ -630,9 +569,14 @@
         ],
         "badges": [
             {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
+                "description": "GDG Le Mans",
+                "link": "https://gdg.community.dev/gdg-le-mans/",
+                "name": "gdg"
+            },
+            {
+                "description": "Paris Android User Group",
+                "link": "https://www.meetup.com/Android-Paris/",
+                "name": "gdg"
             }
         ],
         "country": "",
@@ -655,13 +599,6 @@
                 "icon": "website",
                 "link": "https://oussamahaff.dev",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -768,13 +705,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-alexey-bykov",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 28
     },
@@ -790,13 +720,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/xgouchet",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -819,13 +742,6 @@
                 "icon": "website",
                 "link": "https://kardelio.github.io/",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-alexey-bykov",
-                "name": "gde"
             }
         ],
         "country": "",
@@ -874,13 +790,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 32
     },
@@ -903,13 +812,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 34
     },
@@ -927,13 +829,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 35
     },
@@ -943,7 +838,7 @@
         "bio": "Android @Instacart",
         "company": "Instacart",
         "companyLogoUrl": "/images/logos/instacart.svg",
-        "photoUrl": "/images/people/fran\u00e7ois_blavoet.jpg",
+        "photoUrl": "/images/people/francois_blavoet.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -956,13 +851,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 36
     },
@@ -972,19 +860,12 @@
         "bio": "Fell in love with Android since I had my first smartphone (Gingerbread <3), I dreamed to develop an application used by millions of people. At MWM, I developed several applications matching this wish ! I like to develop beautiful UI but also to write native code in C++ with Android NDK to maximize performance of algorithms.",
         "company": "MWM",
         "companyLogoUrl": "/images/logos/mwm.svg",
-        "photoUrl": "/images/people/fr\u00e9d\u00e9ric_torcheux.jpg",
+        "photoUrl": "/images/people/frederic_torcheux.jpg",
         "socials": [
             {
                 "icon": "twitter",
                 "link": "https://twitter.com/bowser_f",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -1009,13 +890,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 38
     },
@@ -1023,7 +897,7 @@
         "name": "Enrique L\u00f3pez Ma\u00f1as",
         "featured": false,
         "bio": "Enrique L\u00f3pez Ma\u00f1as is a software engineer, mostly focused on Android and backend development with Java/Kotlin. As a contractor, he has filled his hours with an eclectic variety of technologies: TensorFlow, iOS, Swift, NodeJS, RoR, and Python. Before Living by the Code, he published the books Android High Performance, 100 Android Questions and Answers, and 100 iOS Questions and Answers. He has been a member of the Google Developer Expert crew since 2014. Besides his programming duties, he also runs a few side projects. He is the editor and maintainer of Kotlin Weekly, a mailing list that delivers news about the Kotlin universe every Sunday. He is the organizer of Kotlin Users Meetup Group Munich and Droidcon Vietnam.",
-        "photoUrl": "/images/people/enrique_l\u00f3pez_ma\u00f1as.jpg",
+        "photoUrl": "/images/people/enrique_lopez_manas.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -1065,13 +939,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 40
     },
@@ -1092,13 +959,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 41
     },
@@ -1108,19 +968,12 @@
         "bio": "Android at Cash App. Like nice code.",
         "company": "Cash App",
         "companyLogoUrl": "/images/logos/cash_app.svg",
-        "photoUrl": "/images/people/beno\u00eet_quenaudon.jpg",
+        "photoUrl": "/images/people/benoit_quenaudon.jpg",
         "socials": [
             {
                 "icon": "website",
                 "link": "https://benoitquenaudon.com/",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
             }
         ],
         "country": "",
@@ -1132,7 +985,7 @@
         "bio": "Android Developer Relations Engineer at Google, working on anything and everything Kotlin. A fan of the language since the 1.0 release. Lecturer at BME-VIK, teaching a standalone Kotlin course. Creator of requireKTX, RainbowCake, and Krate. Ranked right around the very top of the Kotlin tag on StackOverflow.",
         "company": "Google",
         "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/m\u00e1rton_braun.jpg",
+        "photoUrl": "/images/people/marton_braun.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -1261,13 +1114,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 47
     },
@@ -1285,13 +1131,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 48
     },
@@ -1307,13 +1146,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/zhenleiji",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -1353,13 +1185,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/TitouanThibaud",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "GDG Montpellier",
-                "link": "https://www.meetup.com/fr-FR/Montpellier-Android-User-Group/",
-                "name": "gdg"
             }
         ],
         "country": "",
@@ -1412,5 +1237,34 @@
         ],
         "country": "",
         "order": 53
+    },
+    "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae": {
+        "name": "Yacine Rezgui",
+        "featured": false,
+        "bio": "Yacine is an Android developer relations engineer at Google in London where his work is focused on privacy. He worked previously as a developer advocate at IBM on artificial intelligence API ecosystem and as a software engineer in several startups.",
+        "company": "Google",
+        "companyLogoUrl": "/images/logos/google.svg",
+        "photoUrl": "/images/people/yacine_rezgui.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/yrezgui",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://yrezgui.com",
+                "name": "Website"
+            }
+        ],
+        "badges": [
+            {
+                "description": "Android developer relations",
+                "link": "https://developer.android.com/",
+                "name": "google"
+            }
+        ],
+        "country": "",
+        "order": 54
     }
 }

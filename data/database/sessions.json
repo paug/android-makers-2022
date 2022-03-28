@@ -553,5 +553,17 @@
             "7c3c8d4952ab519203050d818cb1f3d6193ec605",
             "65a10ef193706d1eac513be7fd840171227470ce"
         ]
+    },
+    "TEB-8393": {
+        "title": "Simplifying Scoped Storage with ModernStorage",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "This is an introduction to ModernStorage, a new library unifying storage interactions across all APIs on Android from API 21+, including Scoped Storage, to make file processing a breeze for developers. We’ll go over some of the most common use cases, like uploading a file, listing files from a folder using the Storage Access Framework, getting file metadata, and see how ModernStorage helps you implement them easier.",
+        "complexity": "Intermediate",
+        "speakers": [
+            "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae"
+        ]
     }
 }
