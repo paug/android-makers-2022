@@ -1237,5 +1237,34 @@
         ],
         "country": "",
         "order": 53
+    },
+    "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae": {
+        "name": "Yacine Rezgui",
+        "featured": false,
+        "bio": "Yacine is an Android developer relations engineer at Google in London where his work is focused on privacy. He worked previously as a developer advocate at IBM on artificial intelligence API ecosystem and as a software engineer in several startups.",
+        "company": "Google",
+        "companyLogoUrl": "/images/logos/google.svg",
+        "photoUrl": "/images/people/yacine_rezgui.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/yrezgui",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://yrezgui.com",
+                "name": "Website"
+            }
+        ],
+        "badges": [
+            {
+                "description": "Android developer relations",
+                "link": "https://developer.android.com/",
+                "name": "google"
+            }
+        ],
+        "country": "",
+        "order": 54
     }
 }
