@@ -127,13 +127,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-sebastiano-poggi",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 4
     },
@@ -185,13 +178,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 6
     },
@@ -214,13 +200,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 7
     },
@@ -241,13 +220,6 @@
                 "icon": "website",
                 "link": "https://speakerdeck.com/syrinet",
                 "name": "Website"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
             }
         ],
         "country": "",
@@ -455,13 +427,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-christopher-banes",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 16
     },
@@ -508,13 +473,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            }
-        ],
         "country": "",
         "order": 18
     },
@@ -528,13 +486,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/divyajain2405",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
             }
         ],
         "country": "",
@@ -575,18 +526,6 @@
         "bio": "Android Engineer working on Disney+ and Star+ apps at Disney Streaming. I have been working as a Software Engineer for more than 10 years, 8 of them building mobile apps from Games to Video Streaming.",
         "photoUrl": "/images/people/guilherme_branco.jpg",
         "socials": [],
-        "badges": [
-            {
-                "description": "Paris Android User Group",
-                "link": "https://www.meetup.com/Android-Paris/",
-                "name": "gdg"
-            },
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-julien-salvi",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 21
     },
@@ -628,13 +567,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 23
     },
@@ -655,13 +587,6 @@
                 "icon": "website",
                 "link": "https://oussamahaff.dev",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -768,13 +693,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-alexey-bykov",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 28
     },
@@ -790,13 +708,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/xgouchet",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -819,13 +730,6 @@
                 "icon": "website",
                 "link": "https://kardelio.github.io/",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-alexey-bykov",
-                "name": "gde"
             }
         ],
         "country": "",
@@ -874,13 +778,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 32
     },
@@ -903,13 +800,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 34
     },
@@ -925,13 +815,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/g123k",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -956,13 +839,6 @@
                 "name": "Website"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 36
     },
@@ -978,13 +854,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/bowser_f",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -1007,13 +876,6 @@
                 "icon": "website",
                 "link": "https://deadpan-sodalite-1a8.notion.site/Pierre-Issartel-84115006d40b47aeb546f959f67e34b6",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -1065,13 +927,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 40
     },
@@ -1092,13 +947,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
-            }
-        ],
         "country": "",
         "order": 41
     },
@@ -1114,13 +962,6 @@
                 "icon": "website",
                 "link": "https://benoitquenaudon.com/",
                 "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-enrique-lopez-manas",
-                "name": "gde"
             }
         ],
         "country": "",
@@ -1261,13 +1102,6 @@
                 "name": "Blog"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 47
     },
@@ -1285,13 +1119,6 @@
                 "name": "Twitter"
             }
         ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
         "country": "",
         "order": 48
     },
@@ -1307,13 +1134,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/zhenleiji",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
             }
         ],
         "country": "",
@@ -1353,13 +1173,6 @@
                 "icon": "twitter",
                 "link": "https://twitter.com/TitouanThibaud",
                 "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "GDG Montpellier",
-                "link": "https://www.meetup.com/fr-FR/Montpellier-Android-User-Group/",
-                "name": "gdg"
             }
         ],
         "country": "",
