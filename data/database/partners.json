@@ -52,10 +52,10 @@
         "title": "Virtual sponsors",
         "items": [
             {
-                "order": 1,
+                "order": 0,
                 "logoUrl": "../images/logos/deezer.svg",
                 "name": "Deezer",
-                "url": "hhttps://www.deezer.com/en/company/about"
+                "url": "https://www.deezer.com/en/company/about"
             }
         ]
     },
