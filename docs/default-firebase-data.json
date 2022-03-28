@@ -74,6 +74,26 @@
   },
   "partners": [
     {
+      "order": 0,
+      "title": "Event Organizers",
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/organizer-bma-logo.svg",
+          "name": "BeMyApp",
+          "url": "https://www.bemyapp.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/organizer-paug-logo.svg",
+          "name": "Paris Android User Group",
+          "url": "https://www.paug.fr/"
+        }
+      ]
+    },
+    {
+      "order": 1,
+      "title": "Gold sponsor",
       "items": [
         {
           "order": 0,
@@ -81,11 +101,11 @@
           "name": "Bitrise",
           "url": "http://bitrise.io/"
         }
-      ],
-      "order": 0,
-      "title": "Gold sponsor"
+      ]
     },
     {
+      "order": 2,
+      "title": "Silver sponsors",
       "items": [
         {
           "order": 0,
@@ -99,23 +119,35 @@
           "name": "Exomind",
           "url": "https://www.exomind.fr/"
         }
-      ],
-      "order": 1,
-      "title": "Silver sponsors"
+      ]
     },
     {
+      "order": 3,
+      "title": "Virtual sponsors",
       "items": [
         {
-          "order": 1,
+          "order": 0,
           "logoUrl": "../images/logos/deezer.svg",
           "name": "Deezer",
-          "url": "hhttps://www.deezer.com/en/company/about"
+          "url": "https://www.deezer.com/en/company/about"
         }
-      ],
-      "order": 2,
-      "title": "Virtual sponsors"
+      ]
     },
     {
+      "order": 4,
+      "title": "Individual Speaker Sponsor",
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/slack.svg",
+          "name": "Slack",
+          "url": "https://slack.com/careers/dept/products-and-technology"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "title": "Template Creator",
       "items": [
         {
           "order": 0,
@@ -123,9 +155,7 @@
           "name": "GDG Lviv",
           "url": "https://www.meetup.com/GDG-Lviv/"
         }
-      ],
-      "order": 3,
-      "title": "Template Creator"
+      ]
     }
   ],
   "schedule": {},
