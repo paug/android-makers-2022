@@ -630,9 +630,14 @@
         ],
         "badges": [
             {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
+                "description": "Paris Android User Group",
+                "link": "https://www.meetup.com/Android-Paris/",
+                "name": "gdg"
+            },
+            {
+                "description": "GDG Le Mans",
+                "link": "https://gdg.community.dev/gdg-le-mans/",
+                "name": "gdg"
             }
         ],
         "country": "",
