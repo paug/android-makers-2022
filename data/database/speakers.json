@@ -838,7 +838,7 @@
         "bio": "Android @Instacart",
         "company": "Instacart",
         "companyLogoUrl": "/images/logos/instacart.svg",
-        "photoUrl": "/images/people/fran\u00e7ois_blavoet.jpg",
+        "photoUrl": "/images/people/francois_blavoet.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -860,7 +860,7 @@
         "bio": "Fell in love with Android since I had my first smartphone (Gingerbread <3), I dreamed to develop an application used by millions of people. At MWM, I developed several applications matching this wish ! I like to develop beautiful UI but also to write native code in C++ with Android NDK to maximize performance of algorithms.",
         "company": "MWM",
         "companyLogoUrl": "/images/logos/mwm.svg",
-        "photoUrl": "/images/people/fr\u00e9d\u00e9ric_torcheux.jpg",
+        "photoUrl": "/images/people/frederic_torcheux.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -897,7 +897,7 @@
         "name": "Enrique L\u00f3pez Ma\u00f1as",
         "featured": false,
         "bio": "Enrique L\u00f3pez Ma\u00f1as is a software engineer, mostly focused on Android and backend development with Java/Kotlin. As a contractor, he has filled his hours with an eclectic variety of technologies: TensorFlow, iOS, Swift, NodeJS, RoR, and Python. Before Living by the Code, he published the books Android High Performance, 100 Android Questions and Answers, and 100 iOS Questions and Answers. He has been a member of the Google Developer Expert crew since 2014. Besides his programming duties, he also runs a few side projects. He is the editor and maintainer of Kotlin Weekly, a mailing list that delivers news about the Kotlin universe every Sunday. He is the organizer of Kotlin Users Meetup Group Munich and Droidcon Vietnam.",
-        "photoUrl": "/images/people/enrique_l\u00f3pez_ma\u00f1as.jpg",
+        "photoUrl": "/images/people/enrique_lopez_manas.jpg",
         "socials": [
             {
                 "icon": "twitter",
@@ -968,7 +968,7 @@
         "bio": "Android at Cash App. Like nice code.",
         "company": "Cash App",
         "companyLogoUrl": "/images/logos/cash_app.svg",
-        "photoUrl": "/images/people/beno\u00eet_quenaudon.jpg",
+        "photoUrl": "/images/people/benoit_quenaudon.jpg",
         "socials": [
             {
                 "icon": "website",
@@ -985,7 +985,7 @@
         "bio": "Android Developer Relations Engineer at Google, working on anything and everything Kotlin. A fan of the language since the 1.0 release. Lecturer at BME-VIK, teaching a standalone Kotlin course. Creator of requireKTX, RainbowCake, and Krate. Ranked right around the very top of the Kotlin tag on StackOverflow.",
         "company": "Google",
         "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/m\u00e1rton_braun.jpg",
+        "photoUrl": "/images/people/marton_braun.jpg",
         "socials": [
             {
                 "icon": "twitter",
