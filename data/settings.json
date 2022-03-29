@@ -3,7 +3,7 @@
       "name": "Paris Android User Group",
       "url": "https://paug.fr/",
       "twitter": "parisandroidug",
-      "blog": ""
+      "blog": "/blog/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "AndroidMakers",
+  "hashtag": "AM22",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -27,6 +27,11 @@
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     }
   ],
   "heroSettings": {
