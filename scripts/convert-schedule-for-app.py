@@ -1,12 +1,12 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Convert the schedule JSON used on website to adapted format for app.
 source: https://github.com/paug/android-makers-2019/blob/master/data/database/schedule.json
 
-pytz is needed for this script. On Mac os you can install it with `brew install pytz`.
+python3.10 is needed for this script. On Mac os you can install it with `brew install python@3.10`.
 
-This script will take data/database/rooms.json and data/database/schedule.json files and 
+This script will take data/database/rooms.json and data/database/schedule.json files and
 transform them into data/database/schedule-app.json.
 
 To run it, simply call `./scripts/convert-schedule-for-app.py`.
@@ -14,8 +14,8 @@ To run it, simply call `./scripts/convert-schedule-for-app.py`.
 
 import json
 
-from datetime import timedelta, datetime, tzinfo
-import pytz
+from datetime import timedelta, datetime, tzinfo, timezone
+import zoneinfo
 import os
 
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -34,11 +34,9 @@ talks = []
 rooms = []
 
 def convertDate(datetime_str):
-    # https://stackabuse.com/converting-strings-to-datetime-in-python/
     date_time_obj = datetime.strptime(datetime_str, '%Y-%m-%d %H:%M')
-    timezone = pytz.timezone('Europe/Paris')  
-    timezone_date_time_obj = timezone.localize(date_time_obj)
-    return timezone_date_time_obj.isoformat()
+    eu_timezone = zoneinfo.ZoneInfo('Europe/Paris')
+    return date_time_obj.astimezone(tz=eu_timezone).isoformat()
 
 def extractTalks(day_str, timeslots):
     for slot in timeslots:
@@ -101,7 +99,7 @@ with open(input_rooms_raw) as json_data:
     rooms_raw = json.load(json_data)
     extractRooms(rooms_raw)
 
-with open(output_schedule_app, 'wb') as outfile:
+with open(output_schedule_app, 'w') as outfile:
     schedule_app = {
         "slots": {
             "all": talks
