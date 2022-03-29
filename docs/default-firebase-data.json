@@ -132,8 +132,52 @@
   },
   "team": [
     {
+      "members": [
+        {
+          "name": "Eyal Lezmy",
+          "photoUrl": "/images/people/eyal_lezmy.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Eyal_Lezmy",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Marion Hayoun",
+          "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/loutry",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Benjamin Gonin",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1177335817104175109/MGPT17XV_400x400.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/_benju_",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        }
+      ],
+      "title": "PAUG"
+    },
+    {
       "members": [],
-      "title": "Core Team"
+      "title": "BeMyApp"
     }
   ],
   "tickets": [
