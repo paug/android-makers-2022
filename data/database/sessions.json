@@ -142,12 +142,12 @@
         ]
     },
     "CPQ-5361": {
-        "title": "One does not simply: migrating to Android 12 🤯",
+        "title": "Migrer vers Android 12: plus compliquer que de replier une tente 2s",
         "tags": [
             "Android Development"
         ],
         "language": "English/French",
-        "description": "A not so easy migration to support Android 12! This talk will show you all the subtleties you need to know before migrating your applications to Android 12.\n\nFrom the Manifest to PendingIntent, through the new restrictions on the Bluetooth/Telephony side or even in terms of security and privacy, Android 12 brings a lot of changes (and some of them a bit hidden 😅). We'll explore how we can achieve the support of this new Android version and see which tools can facilitate the migration. On top of that, we'll have a look at the some of the new APIs that arrived with Android 12.\n\nOne of the most laborious migrations since Android 6 and the introduction of runtime permissions 😆 3, 2, 1 let's do it!",
+        "description": "Une migration pas facile qu'est celle d'Android 12 ! Ce talk vous comptera toutes les subtilités qu'ils faut connaître avant de migrer votre application vers Android 12.\n\nDu Manifest aux PendingIntent en passant par les nouvelles restrictions du côté du Bluetooth ou encore au niveau de la sécurité et de la vie privée. Android 12 apporte énormément de changements (et certain bien caché !) pour les développeurs. Nous explorerons comment s'occuper de la migration vers cette nouvelle version d'Android et quelques tools qui peuvent nous faciliter la tâche.\n\nUne des migrations les plus laborieuses depuis Android 6 et l'introduction des permissions au runtime 😆 3, 2, 1 on replie !",
         "complexity": "Beginner",
         "speakers": [
             "b59333a429b238f81f8c0a6377da8c8f052f917f"
