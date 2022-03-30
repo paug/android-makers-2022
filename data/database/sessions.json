@@ -540,5 +540,17 @@
         "speakers": [
             "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae"
         ]
+    },
+    "TWW-8613": {
+        "title": "How do YOU compare to others in Mobile DevOps Performance, Productivity, and Maturity?",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Mobile is unique. It provides unique opportunities and presents unique challenges. To take these on, mobile product organizations need to align their teams to work together efficiently and adopt best practices in Mobile DevOps. But it’s difficult to develop a roadmap for improvement without understanding current strengths and weaknesses, and benchmarking Mobile DevOps maturity against similar organizations. Our survey was designed to give mobile teams a way to asses their Mobile DevOps performance, productivity, and maturity, and to give steer on where and how to make improvements.\n\nIn this talk you will learn:\n- What the unique challenges are that the survey was designed to solve\n- How the survey is structured and what it assesses\n- What we have learnt from surveying hundreds of mobile teams about typical performance metrics, processes, and tooling\n- What the stages of Mobile DevOps maturity look like\n- And what you can do to begin the process of becoming Cutting Edge",
+        "complexity": "Beginner",
+        "speakers": [
+            "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95"
+        ]
     }
 }

@@ -531,6 +531,16 @@
         "country": "",
         "order": 21
     },
+    "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95": {
+        "name": "Anna Bátki",
+        "featured": false,
+        "bio": "Anna knows (almost) everything about mobile CI/CD, because she has worked at Bitrise for 5 years, enabling the world’s most successful mobile organizations to deploy high-quality apps efficiently. She is a passionate learner who holds the unique position to understand complex technical issues and customer pain points. She enjoys deep diving into engineering workflows, authoring technical blog posts and product communications, as well as presenting at developer conferences such as DevFests. She loves to organize and optimize, tell stories, and share her experience, especially the nerdy things - in an easy-to-understand and fun way.",
+        "company": "Bitrise",
+        "companyLogoUrl": "/images/logos/bitrise.svg",
+        "photoUrl": "/images/people/anna_batki.jpg",
+        "country": "",
+        "order": 22
+    },
     "ab12cba820c3cdd5f9ac0dd86acc8be4360308bd": {
         "name": "Antoine Danois",
         "featured": false,
