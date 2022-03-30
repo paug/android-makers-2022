@@ -524,6 +524,8 @@
         "name": "Guilherme Branco",
         "featured": false,
         "bio": "Android Engineer working on Disney+ and Star+ apps at Disney Streaming. I have been working as a Software Engineer for more than 10 years, 8 of them building mobile apps from Games to Video Streaming.",
+        "company": "Disney Streaming Services",
+        "companyLogoUrl": "/images/logos/disney_streaming_services.svg",
         "photoUrl": "/images/people/guilherme_branco.jpg",
         "socials": [],
         "country": "",
