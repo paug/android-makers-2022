@@ -166,19 +166,6 @@
             "9cca77d49733a147693723113dfd3cc90da2cb32"
         ]
     },
-    "CDL-6234": {
-        "title": "Meaningful Compose - learn how to create testable and accessible apps",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "Would you like your Compose app to be without bugs, and accessible to all users? Join our talk to learn how! We’ll share how the Semantics Tree is indispensable for both UI testing and accessibility. After attending, you’ll know exactly what a Semantics Tree looks like, how you can analyze and adapt it to your needs, and how to debug issues you might encounter.",
-        "complexity": "Beginner",
-        "speakers": [
-            "8b4bc4a4e892d8f67bc76f925266bba1e552fb89",
-            "b0a55542e9138934c5395898531fe9394525b04e"
-        ]
-    },
     "XDP-9037": {
         "title": "Architecture, to build an app, or a house, it's important. But what is that concretely?",
         "tags": [
@@ -467,18 +454,6 @@
         "complexity": "Beginner",
         "speakers": [
             "109d33decd394492fbd5b99a92dd7607d821d27c"
-        ]
-    },
-    "UME-8614": {
-        "title": "Implementing modern Android architecture",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "This talk will cover how we implemented the modern Android architecture guidance in an app. This can enable us to build a scalable, flexible and testable app which supports a reactive programming style and allowed multiple developers to work on features independently.\n\nWe’ll show how data is produced by the data layer and transformed into UI state, and how that state is consumed by the UI layer using Unidirectional Data Flow (UDF).\n\nWe’ll also discuss the relationship between the UI states, state holders and UI elements, different types of state holders and their use cases, as well as the handling of UI events.",
-        "complexity": "Beginner",
-        "speakers": [
-            "930ec566811fb9acc515fba7437066a9b7cd1460"
         ]
     },
     "EST-5335": {

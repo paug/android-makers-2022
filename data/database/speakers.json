@@ -529,30 +529,6 @@
         "country": "",
         "order": 21
     },
-    "8b4bc4a4e892d8f67bc76f925266bba1e552fb89": {
-        "name": "Anastasia Soboleva",
-        "featured": false,
-        "bio": "A software engineer at Google working on Jetpack Compose",
-        "company": "Google",
-        "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/anastasia_soboleva.jpg",
-        "socials": [
-            {
-                "icon": "twitter",
-                "link": "https://twitter.com/nastia_05",
-                "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
-        "country": "",
-        "order": 22
-    },
     "ab12cba820c3cdd5f9ac0dd86acc8be4360308bd": {
         "name": "Antoine Danois",
         "featured": false,
@@ -1065,35 +1041,6 @@
         ],
         "country": "",
         "order": 45
-    },
-    "930ec566811fb9acc515fba7437066a9b7cd1460": {
-        "name": "Manuel Vicente Vivo",
-        "featured": false,
-        "bio": "Manuel is a Developer Relations Engineer at Google. With previous experience at Capital One, he currently focuses on App Architecture, Kotlin & Coroutines, Dependency Injection and Jetpack Compose.",
-        "company": "Google",
-        "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/manuel_vicente_vivo.jpg",
-        "socials": [
-            {
-                "icon": "twitter",
-                "link": "https://twitter.com/manuelvicnt",
-                "name": "Twitter"
-            },
-            {
-                "icon": "website",
-                "link": "https://manuelvivo.dev/",
-                "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
-        "country": "",
-        "order": 46
     },
     "aaec18080e28068c1d725fb7747a77a26df8dcd8": {
         "name": "Carlos Mota",
