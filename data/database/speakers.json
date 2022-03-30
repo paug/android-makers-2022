@@ -1063,6 +1063,13 @@
                 "name": "Blog"
             }
         ],
+        "badges": [
+            {
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-carlos-mota",
+                "name": "gde"
+            }
+        ],
         "country": "",
         "order": 47
     },
