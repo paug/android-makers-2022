@@ -1154,7 +1154,9 @@
     "11c3eef1aefb87fb11d7beee2a2e4e891604b3e2": {
         "name": "Hugo Gresse",
         "featured": false,
-        "bio": "Mobile developer for Pl@ntNet app at INRIA, Montpellier, France\n\nPreviously: - lead android developer at Teads\n\nAlso a web developer and open source contributors: - openfeedback.io - bataille.ovh - more on github\n\nCr\u00e9ator of Montpellier Android User Group, board member of Montpellier Tech Hub and co-organizer of SunnyTech",
+        "bio": "Mobile developer for Pl@ntNet app at INRIA, Montpellier, France\n\nPreviously:\n - lead android developer at Teads\n\nAlso a web developer and open source contributors:\n - https://openfeedback.io\n - https://bataille.ovh\n\nCr\u00e9ator of Montpellier Android User Group, board member of Montpellier Tech Hub and co-organizer of SunnyTech",
+        "company": "INRIA",
+        "companyLogoUrl": "/images/logos/inria.svg",
         "photoUrl": "/images/people/hugo_gresse.jpg",
         "socials": [
             {
