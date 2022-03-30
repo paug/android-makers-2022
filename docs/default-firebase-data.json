@@ -128,14 +128,14 @@
   ],
   "schedule": {},
   "sessions": {},
-  "speakers": {
-  },
+  "speakers": {},
   "team": [
     {
       "members": [
         {
           "name": "Eyal Lezmy",
           "photoUrl": "/images/people/eyal_lezmy.jpg",
+          "photo": "",
           "socials": [
             {
               "icon": "twitter",
@@ -149,6 +149,7 @@
         {
           "name": "Marion Hayoun",
           "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
+          "photo": "",
           "socials": [
             {
               "icon": "twitter",
@@ -162,10 +163,86 @@
         {
           "name": "Benjamin Gonin",
           "photoUrl": "https://pbs.twimg.com/profile_images/1177335817104175109/MGPT17XV_400x400.jpg",
+          "photo": "",
           "socials": [
             {
               "icon": "twitter",
               "link": "https://twitter.com/_benju_",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Antoine Danois",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1488871196498272258/pJp5c8zC_400x400.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/antoinedroid",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/antoinedanois/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Alexandre Bruneau",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1125788610215550977/X-lykdEY_400x400.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bruneau_alex",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Pierre Tibulle",
+          "photoUrl": "https://pbs.twimg.com/media/FOMCxchXwAUJT-_?format=jpg&name=large",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ptibulle",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Djavan Bertrand",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1526573324/photo_400x400.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Djava7",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Martin Bonnin",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1501494768228093954/yTEnkGky_400x400.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/martinbonnin",
               "name": "Twitter"
             }
           ],
@@ -176,7 +253,16 @@
       "title": "PAUG"
     },
     {
-      "members": [],
+      "members": [
+        {
+          "name": "Jennifer Chan",
+          "photoUrl": "",
+          "photo": "",
+          "socials": [],
+          "order": 0,
+          "title": "Organizer"
+        }
+      ],
       "title": "BeMyApp"
     }
   ],
