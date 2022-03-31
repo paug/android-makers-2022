@@ -142,12 +142,12 @@
         ]
     },
     "CPQ-5361": {
-        "title": "One does not simply: migrating to Android 12 🤯",
+        "title": "Migrer vers Android 12: plus compliquer que de replier une tente 2s",
         "tags": [
             "Android Development"
         ],
         "language": "English/French",
-        "description": "A not so easy migration to support Android 12! This talk will show you all the subtleties you need to know before migrating your applications to Android 12.\n\nFrom the Manifest to PendingIntent, through the new restrictions on the Bluetooth/Telephony side or even in terms of security and privacy, Android 12 brings a lot of changes (and some of them a bit hidden 😅). We'll explore how we can achieve the support of this new Android version and see which tools can facilitate the migration. On top of that, we'll have a look at the some of the new APIs that arrived with Android 12.\n\nOne of the most laborious migrations since Android 6 and the introduction of runtime permissions 😆 3, 2, 1 let's do it!",
+        "description": "Une migration pas facile qu'est celle d'Android 12 ! Ce talk vous comptera toutes les subtilités qu'ils faut connaître avant de migrer votre application vers Android 12.\n\nDu Manifest aux PendingIntent en passant par les nouvelles restrictions du côté du Bluetooth ou encore au niveau de la sécurité et de la vie privée. Android 12 apporte énormément de changements (et certain bien caché !) pour les développeurs. Nous explorerons comment s'occuper de la migration vers cette nouvelle version d'Android et quelques tools qui peuvent nous faciliter la tâche.\n\nUne des migrations les plus laborieuses depuis Android 6 et l'introduction des permissions au runtime 😆 3, 2, 1 on replie !",
         "complexity": "Beginner",
         "speakers": [
             "b59333a429b238f81f8c0a6377da8c8f052f917f"
@@ -164,19 +164,6 @@
         "speakers": [
             "fb805760b311d7dea7963afcd97f9613303f7722",
             "9cca77d49733a147693723113dfd3cc90da2cb32"
-        ]
-    },
-    "CDL-6234": {
-        "title": "Meaningful Compose - learn how to create testable and accessible apps",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "Would you like your Compose app to be without bugs, and accessible to all users? Join our talk to learn how! We’ll share how the Semantics Tree is indispensable for both UI testing and accessibility. After attending, you’ll know exactly what a Semantics Tree looks like, how you can analyze and adapt it to your needs, and how to debug issues you might encounter.",
-        "complexity": "Beginner",
-        "speakers": [
-            "8b4bc4a4e892d8f67bc76f925266bba1e552fb89",
-            "b0a55542e9138934c5395898531fe9394525b04e"
         ]
     },
     "XDP-9037": {
@@ -317,7 +304,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Compose brings a much simpler way to create scrolling lists than the RecyclerView before it, with fewer lines of code. In this talk, we take a closer look at Lazy layouts in Jetpack Compose and how this API enables adding content on demand. We will learn about the provided Lazy composables - how and when to use them, how they are built and how they work under the hood, as well as how to change their default implementation to adjust them to your specific design needs. We will also talk about how to optimise for performance with faster scrolling, why you should always provide unique keys and avoid nested scrolling. Understanding the low level details of how Lazy works in Compose can set the path for implementing custom layout managers for more complex requirements. We will also take a look at some exciting experimental features, such as LazyVerticalGrid and animating changes to items.",
+        "description": "Jetpack Compose brings a much simpler way to create scrolling layouts than the RecyclerView before it, with fewer lines of code. In this talk, we take a closer look at Lazy layouts in Compose and how this API enables adding content on demand. We will learn about Lazy composables - how and when to use them, how they are built and how they work under the hood, as well as how to change their default implementation to adjust them to your specific design needs. We will also talk about how to optimise for performance with faster scrolling, why you should always provide unique keys, as well as avoid 0-pixel sized items and nesting components scrollable in the same direction. Understanding the low level details of how Lazy works in Compose can set the path for implementing custom Lazy layouts for more complex requirements. We will also take a look at some exciting new features, such as Lazy grids and item animations.",
         "complexity": "Intermediate",
         "speakers": [
             "d0233195e347b6929d84b4f2b3b9cf2084503bff"
@@ -469,18 +456,6 @@
             "109d33decd394492fbd5b99a92dd7607d821d27c"
         ]
     },
-    "UME-8614": {
-        "title": "Implementing modern Android architecture",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "This talk will cover how we implemented the modern Android architecture guidance in an app. This can enable us to build a scalable, flexible and testable app which supports a reactive programming style and allowed multiple developers to work on features independently.\n\nWe’ll show how data is produced by the data layer and transformed into UI state, and how that state is consumed by the UI layer using Unidirectional Data Flow (UDF).\n\nWe’ll also discuss the relationship between the UI states, state holders and UI elements, different types of state holders and their use cases, as well as the handling of UI events.",
-        "complexity": "Beginner",
-        "speakers": [
-            "930ec566811fb9acc515fba7437066a9b7cd1460"
-        ]
-    },
     "EST-5335": {
         "title": "The Adventures of Kotlin And Compose Through the Multiplatform World",
         "tags": [
@@ -564,6 +539,18 @@
         "complexity": "Intermediate",
         "speakers": [
             "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae"
+        ]
+    },
+    "TWW-8613": {
+        "title": "How do YOU compare to others in Mobile DevOps Performance, Productivity, and Maturity?",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Mobile is unique. It provides unique opportunities and presents unique challenges. To take these on, mobile product organizations need to align their teams to work together efficiently and adopt best practices in Mobile DevOps. But it’s difficult to develop a roadmap for improvement without understanding current strengths and weaknesses, and benchmarking Mobile DevOps maturity against similar organizations. Our survey was designed to give mobile teams a way to asses their Mobile DevOps performance, productivity, and maturity, and to give steer on where and how to make improvements.\n\nIn this talk you will learn:\n- What the unique challenges are that the survey was designed to solve\n- How the survey is structured and what it assesses\n- What we have learnt from surveying hundreds of mobile teams about typical performance metrics, processes, and tooling\n- What the stages of Mobile DevOps maturity look like\n- And what you can do to begin the process of becoming Cutting Edge",
+        "complexity": "Beginner",
+        "speakers": [
+            "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95"
         ]
     }
 }

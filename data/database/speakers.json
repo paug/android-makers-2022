@@ -524,32 +524,20 @@
         "name": "Guilherme Branco",
         "featured": false,
         "bio": "Android Engineer working on Disney+ and Star+ apps at Disney Streaming. I have been working as a Software Engineer for more than 10 years, 8 of them building mobile apps from Games to Video Streaming.",
+        "company": "Disney Streaming Services",
+        "companyLogoUrl": "/images/logos/disney_streaming_services.svg",
         "photoUrl": "/images/people/guilherme_branco.jpg",
         "socials": [],
         "country": "",
         "order": 21
     },
-    "8b4bc4a4e892d8f67bc76f925266bba1e552fb89": {
-        "name": "Anastasia Soboleva",
+    "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95": {
+        "name": "Anna Bátki",
         "featured": false,
-        "bio": "A software engineer at Google working on Jetpack Compose",
-        "company": "Google",
-        "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/anastasia_soboleva.jpg",
-        "socials": [
-            {
-                "icon": "twitter",
-                "link": "https://twitter.com/nastia_05",
-                "name": "Twitter"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android Compose",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
+        "bio": "Anna knows (almost) everything about mobile CI/CD, because she has worked at Bitrise for 5 years, enabling the world’s most successful mobile organizations to deploy high-quality apps efficiently. She is a passionate learner who holds the unique position to understand complex technical issues and customer pain points. She enjoys deep diving into engineering workflows, authoring technical blog posts and product communications, as well as presenting at developer conferences such as DevFests. She loves to organize and optimize, tell stories, and share her experience, especially the nerdy things - in an easy-to-understand and fun way.",
+        "company": "Bitrise",
+        "companyLogoUrl": "/images/logos/bitrise.svg",
+        "photoUrl": "/images/people/anna_batki.jpg",
         "country": "",
         "order": 22
     },
@@ -1066,35 +1054,6 @@
         "country": "",
         "order": 45
     },
-    "930ec566811fb9acc515fba7437066a9b7cd1460": {
-        "name": "Manuel Vicente Vivo",
-        "featured": false,
-        "bio": "Manuel is a Developer Relations Engineer at Google. With previous experience at Capital One, he currently focuses on App Architecture, Kotlin & Coroutines, Dependency Injection and Jetpack Compose.",
-        "company": "Google",
-        "companyLogoUrl": "/images/logos/google.svg",
-        "photoUrl": "/images/people/manuel_vicente_vivo.jpg",
-        "socials": [
-            {
-                "icon": "twitter",
-                "link": "https://twitter.com/manuelvicnt",
-                "name": "Twitter"
-            },
-            {
-                "icon": "website",
-                "link": "https://manuelvivo.dev/",
-                "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Android developer relations",
-                "link": "https://developer.android.com/",
-                "name": "google"
-            }
-        ],
-        "country": "",
-        "order": 46
-    },
     "aaec18080e28068c1d725fb7747a77a26df8dcd8": {
         "name": "Carlos Mota",
         "featured": false,
@@ -1112,6 +1071,13 @@
                 "icon": "website",
                 "link": "https://cafonsomota.xyz/",
                 "name": "Blog"
+            }
+        ],
+        "badges": [
+            {
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-carlos-mota",
+                "name": "gde"
             }
         ],
         "country": "",
