@@ -1,4 +1,64 @@
 {
+    "registration": {
+        "description": "Registration of participants will begin on Monday April 25th, from 8:00 am in the entrance hall.",
+        "icon": "registration",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+        "title": "Gates open / Registration",
+        "tags": [
+          "Service"
+        ]
+    },
+    "lunch": {
+        "description": "Fooooood! 🥪\nThe best time to talk with speakers and attendees",
+        "icon": "lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "title": "Lunch",
+        "tags": [
+          "Service"
+        ]
+    },
+    "break": {
+        "description": "Coffeeeeeee! ☕️",
+        "icon": "coffee-break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+        "title": "Coffee break",
+        "tags": [
+          "Service"
+        ]
+    },
+    "party": {
+        "description": "Let’s talk and drink! 🎉 From 19:00, come for chat, networking, drinks and food! 😎<br>The Makers Party will be held in \"Café Oz Denfert\"<br>This is a large venue with australian beers and bar meals just at 10 minutes in transport from the conference venue, at Denfert Rochereau<br><br><h2>Directions</h2>Address: 3 Place Denfert-Rochereau, 75014 Paris<br>M ° Denfert-Rochereau, M ° Raspail (lines 4, 6)<br>Just take the Metro 4 to Denfert<br>https://goo.gl/maps/sC5kxJrWfhQ2<br><br>Attention no more metro 4 after 22h, but there is the bus 68 until 1h that makes the trip Denfert -> Montrouge<br>And there is the RER C to get in the center of Paris<br><br><h2>Infos</h2>The locker room will be free from 19h to 21h.<br>First 200 beers will be free 🍻 And there will be food boards to share",
+        "icon": "party",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+        "title": "Makers Party! 🎉",
+        "tags": [
+          "Service"
+        ]
+    },
+    "opening": {
+        "description": "Come early and choose the best seat",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "title": "Opening",
+        "tags": [
+          "Service"
+        ]
+    },
+    "surprise": {
+        "description": "More information to come.\n\nThank you and see you next year! 👋",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "title": "Surprise and thank you!",
+        "tags": [
+          "Service"
+        ]
+    },
+    "closing": {
+        "description": "Thank you and see you next year! 👋",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "title": "Thank you!",
+        "tags": [
+          "Service"
+        ]
+    },
     "DIA-1089": {
         "complexity": "Beginner",
         "speakers": [

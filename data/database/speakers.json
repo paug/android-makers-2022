@@ -59,7 +59,7 @@
     },
     "1e8ee9b62ccbf4142710dbe7fde7bac48d1b5c96": {
         "name": "Jeroen Mols",
-        "featured": false,
+        "featured": true,
         "bio": "Jeroen Mols is a Google Developer Expert (GDE) in Android, an Android developer at Plaid and an international recognized speaker. With a passion for complex systems and highly technical apps, Jeroen has helped realize four connected products and over 15 Android applications.\n\nHave a look at his portfolio https://jeroenmols.com",
         "company": "Plaid",
         "companyLogoUrl": "/images/logos/plaid.svg",
@@ -88,7 +88,7 @@
     },
     "4227e79e90c24f18fa5d21d0f583b1ee263216bd": {
         "name": "Sebastiano Poggi",
-        "featured": false,
+        "featured": true,
         "bio": "\u201cIt depends\u201d \ud83e\udd37\u200d\u2642\ufe0f\n\nA Google Developers Expert \ud83e\udd13 who has a serious thing for yellow, \ud83d\udc9b design \u2728, and emojis \ud83e\udd0c\n\nPackage Search lead at JetBrains",
         "company": "JetBrains",
         "companyLogoUrl": "/images/logos/jetbrains.svg",
@@ -206,7 +206,7 @@
     "7efc198c67dc2f4c71df042e3a7e7d16c601c976": {
         "name": "Syrine Trabelsi",
         "featured": false,
-        "bio": "Developpeuse android depuis presque 10 ans, j'ai commenc\u00e9 par travailler dans les agences avec des petites applications a developper from scratch jusqu'a rejoindre des \u00e9diteurs ou je contribue a une grande application dans une \u00e9quipe de d\u00e9veloppeurs.",
+        "bio": "Developpeuse android depuis presque 10 ans, j'ai commenc\u00e9 par travailler dans les agences avec des petites applications à developper from scratch jusqu'a rejoindre des \u00e9diteurs ou je contribue a une grande application dans une \u00e9quipe de d\u00e9veloppeurs.",
         "company": "Trainline",
         "companyLogoUrl": "/images/logos/trainline.svg",
         "photoUrl": "/images/people/syrine_trabelsi.jpg",
@@ -538,6 +538,7 @@
         "company": "Bitrise",
         "companyLogoUrl": "/images/logos/bitrise.svg",
         "photoUrl": "/images/people/anna_batki.jpg",
+        "socials": [],
         "country": "",
         "order": 22
     },
