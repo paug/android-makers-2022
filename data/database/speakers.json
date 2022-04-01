@@ -162,9 +162,9 @@
     "fb805760b311d7dea7963afcd97f9613303f7722": {
         "name": "Sandra Dupre",
         "featured": false,
-        "bio": "Sr Android Eng Technical Lead for Disney Streaming Services. Lead of the Edna Team (Content discovery and UI Android team) for Disney+ and Star+",
-        "company": "Disney Streaming Services",
-        "companyLogoUrl": "/images/logos/disney_streaming_services.svg",
+        "bio": "Sr Android Eng Technical Lead for Disney Streaming. Lead of the Edna Team (Content discovery and UI Android team) for Disney+ and Star+",
+        "company": "Disney Streaming",
+        "companyLogoUrl": "/images/logos/disney_streaming.png",
         "photoUrl": "/images/people/sandra_dupre.jpg",
         "socials": [
             {
@@ -524,8 +524,8 @@
         "name": "Guilherme Branco",
         "featured": false,
         "bio": "Android Engineer working on Disney+ and Star+ apps at Disney Streaming. I have been working as a Software Engineer for more than 10 years, 8 of them building mobile apps from Games to Video Streaming.",
-        "company": "Disney Streaming Services",
-        "companyLogoUrl": "/images/logos/disney_streaming_services.svg",
+        "company": "Disney Streaming",
+        "companyLogoUrl": "/images/logos/disney_streaming.png",
         "photoUrl": "/images/people/guilherme_branco.jpg",
         "socials": [],
         "country": "",
