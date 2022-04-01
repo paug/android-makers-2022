@@ -83,27 +83,19 @@ No solicitation or selling of items or services is allowed at Android Makers. An
 
 ### What are the necessary requirements to access the event?
 
-**Android Makers will strictly comply with all local and national governmental measures** put in place to prevent the spread of COVID-19. These measures may be subject to change over the upcoming months, if so we will make sure to post updates.
+**Android Makers will strictly comply with all local and national governmental measures** put in place to prevent the spread of COVID-19. These measures may be subject to change over the upcoming months  
 
-Nonetheless, attendees should expect to provide one or more of the following documents, always on the basis that the individual is vaccinated and/or can provide proof that they are at no risk of spreading, catching or putting people at risk of COVID-19.
+For more information (type and duration of tests accepted, type of vaccine, etc.) and any other necessary requirements click here: https://www.service-public.fr/particuliers/actualites/A15121?lang=en 
 
-Upon entering the event, all attendees will be required to show a sanitary pass which will be one of the following:
+We also ask that anyone attending the event showing ANY symptoms of COVID-19 (despite holding a negative test) does not attend the event, and may be refused at the door. 
 
-- **Proof that they have been fully vaccinated**
-- **Proof of recovery from COVID-19**
-- **A negative PCR-test, or antigen test**
 
-For more information (type and duration of tests accepted, type of vaccine, etc.) and any other necessary requirements click here: [https://www.service-public.fr/particuliers/actualites/A15121?lang=en](https://www.service-public.fr/particuliers/actualites/A15121?lang=en)
-
-Unfortunately, any attendees unable to provide any of the documents listed above will be denied access to the event. We also ask that anyone attending the event showing ANY symptoms of COVID-19 (despite holding a negative test) does not attend the event, and may be refused at the door.
-
-### What measures are put in place to prevent COVID-19 during the event?
+### What measures are put in place to prevent COVID-19 during the event? 
 
 The health and safety of everyone attending the event is our utmost priority. For that reason we are taking all the necessary safety measures in compliance with the national health authorities:
-Other than providing the aforementioned documents (proof of vaccination, negative PCR-test, or proof of recovery from COVID-19), we ask our attendees to follow all safety protocols and to take an active role in preventing the spread of the virus through hygiene precautions such as:
+Other than providing the aforementioned documents (proof of vaccination, negative PCR-test, or proof of recovery from COVID-19), we ask our attendees to follow all safety protocols and to take an active role in preventing the spread of the virus through hygiene precautions such as: 
 
 - Disinfecting your hands regularly
-- Wearing a mask throughout the duration of the event
 - Avoid handshakes and hugs
 - Make sure to cough or sneeze into your elbow or tissue (and immediately dispose of the tissue)
 - Maintain social distancing whenever possible.
@@ -116,7 +108,7 @@ The event hall is equipped with all necessary safety measures, meeting the gover
 
 ### If I have COVID-19 symptoms, can I still come to the event?
 
-No. If you are showing any signs of COVID-19 (fever, cough, tiredenes, loss of smell) then we ask you to please not attend the event to avoid spreading the virus to others.
+No. If you are showing any signs of COVID-19 (fever, cough, fatigue, loss of smell) then we ask you to please not attend the event to avoid spreading the virus to others. 
 
 ### What are the circumstances under which the event will be cancelled?
 
