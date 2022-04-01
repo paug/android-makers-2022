@@ -433,7 +433,7 @@
     "efd0a931724dbd49a6e5b9e6883cc57230a26149": {
         "name": "Martin Bonnin",
         "featured": false,
-        "bio": "Make val, not var",
+        "bio": "Martin is a maintainer of Apollo Kotlin. He has been writing Android applications since Cupcake and fell in love with Kotlin in 2017. Martin loves naming things and the sound of his laptop fan compiling all these type-safe programs. When not busy rewriting all his bash scripts in Kotlin, Martin loves to hike the Pyrénées or play a good game of Hearthstone.",
         "company": "Apollo GraphQL",
         "companyLogoUrl": "/images/logos/apollo_graphql.svg",
         "photoUrl": "/images/people/martin_bonnin.jpg",
