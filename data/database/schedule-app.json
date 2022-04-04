@@ -49,6 +49,12 @@
       },
       {
         "endDate": "2022-04-25T11:05:00+02:00",
+        "roomId": "Moebius",
+        "sessionId": "SFM-4681",
+        "startDate": "2022-04-25T10:20:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T11:05:00+02:00",
         "roomId": "Blin",
         "sessionId": "IUO-6413",
         "startDate": "2022-04-25T10:20:00+02:00"
@@ -145,6 +151,12 @@
       },
       {
         "endDate": "2022-04-25T15:45:00+02:00",
+        "roomId": "Blin",
+        "sessionId": "GWS-5570",
+        "startDate": "2022-04-25T15:25:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T15:45:00+02:00",
         "roomId": "2.04",
         "sessionId": "JEA-0128",
         "startDate": "2022-04-25T15:25:00+02:00"
@@ -216,13 +228,13 @@
         "startDate": "2022-04-26T09:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T09:55:00+02:00",
+        "endDate": "2022-04-26T10:15:00+02:00",
         "roomId": "Moebius",
         "sessionId": "KDO-9985",
         "startDate": "2022-04-26T09:30:00+02:00"
       },
       {
-        "endDate": "2022-04-26T09:55:00+02:00",
+        "endDate": "2022-04-26T10:15:00+02:00",
         "roomId": "Blin",
         "sessionId": "DID-9712",
         "startDate": "2022-04-26T09:30:00+02:00"
@@ -234,13 +246,37 @@
         "startDate": "2022-04-26T10:15:00+02:00"
       },
       {
-        "endDate": "2022-04-26T11:40:00+02:00",
+        "endDate": "2022-04-26T11:00:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "SKI-6755",
+        "sessionId": "XEC-3216",
+        "startDate": "2022-04-26T10:40:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T11:00:00+02:00",
+        "roomId": "Blin",
+        "sessionId": "NKV-0419",
+        "startDate": "2022-04-26T10:40:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T12:00:00+02:00",
+        "roomId": "2.02",
+        "sessionId": "YRV-5644",
+        "startDate": "2022-04-26T10:40:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T12:00:00+02:00",
+        "roomId": "2.04",
+        "sessionId": "PBU-0425",
+        "startDate": "2022-04-26T10:40:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T12:00:00+02:00",
+        "roomId": "Moebius",
+        "sessionId": "JAD-6398",
         "startDate": "2022-04-26T11:15:00+02:00"
       },
       {
-        "endDate": "2022-04-26T11:40:00+02:00",
+        "endDate": "2022-04-26T12:00:00+02:00",
         "roomId": "Blin",
         "sessionId": "NHE-5712",
         "startDate": "2022-04-26T11:15:00+02:00"
@@ -252,13 +288,13 @@
         "startDate": "2022-04-26T12:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T14:25:00+02:00",
+        "endDate": "2022-04-26T14:45:00+02:00",
         "roomId": "Moebius",
         "sessionId": "EST-5335",
         "startDate": "2022-04-26T14:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T14:25:00+02:00",
+        "endDate": "2022-04-26T14:45:00+02:00",
         "roomId": "Blin",
         "sessionId": "PKX-2607",
         "startDate": "2022-04-26T14:00:00+02:00"
@@ -270,32 +306,26 @@
         "startDate": "2022-04-26T14:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T14:25:00+02:00",
+        "endDate": "2022-04-26T14:45:00+02:00",
         "roomId": "2.04",
         "sessionId": "QLS-6916",
         "startDate": "2022-04-26T14:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T15:25:00+02:00",
-        "roomId": "Moebius",
-        "sessionId": "TCC-6622",
-        "startDate": "2022-04-26T15:00:00+02:00"
-      },
-      {
-        "endDate": "2022-04-26T15:25:00+02:00",
+        "endDate": "2022-04-26T15:45:00+02:00",
         "roomId": "Blin",
         "sessionId": "BEH-7755",
         "startDate": "2022-04-26T15:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T15:25:00+02:00",
+        "endDate": "2022-04-26T15:45:00+02:00",
         "roomId": "2.02",
-        "sessionId": "SFM-4681",
+        "sessionId": "SGC-3820",
         "startDate": "2022-04-26T15:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T15:25:00+02:00",
-        "roomId": "2.04",
+        "endDate": "2022-04-26T15:45:00+02:00",
+        "roomId": "2.02",
         "sessionId": "SGC-3820",
         "startDate": "2022-04-26T15:00:00+02:00"
       },
@@ -306,16 +336,28 @@
         "startDate": "2022-04-26T15:45:00+02:00"
       },
       {
-        "endDate": "2022-04-26T16:35:00+02:00",
+        "endDate": "2022-04-26T16:55:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "JAD-6398",
+        "sessionId": "SKI-6755",
+        "startDate": "2022-04-26T16:10:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T16:55:00+02:00",
+        "roomId": "Blin",
+        "sessionId": "DIA-1089",
         "startDate": "2022-04-26T16:10:00+02:00"
       },
       {
         "endDate": "2022-04-26T16:35:00+02:00",
-        "roomId": "Blin",
-        "sessionId": "DIA-1089",
+        "roomId": "2.02",
+        "sessionId": "PXN-5831",
         "startDate": "2022-04-26T16:10:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T18:00:00+02:00",
+        "roomId": "Moebius",
+        "sessionId": "surprise",
+        "startDate": "2022-04-26T17:10:00+02:00"
       }
     ]
   }
