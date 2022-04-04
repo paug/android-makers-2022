@@ -1082,6 +1082,26 @@
             }
         ],
         "country": "",
+        "order": 46
+    },
+    "cb2e16407c778831b4f990bfbd556135c507867f": {
+        "name": "Louis CAD",
+        "featured": false,
+        "bio": "Making open source projects, and projects as part of my own startup.\n\nKotlin GDE & Android Dev. Efficiency over performance. Recumbent bike commuter, velomobile enthusiast.\n\nDo what's hard and your life will be easy… [🔁",
+        "photoUrl": "/images/people/louis_CAD.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/Louis_CAD",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "https://blog.louiscad.com/",
+                "name": "Blog"
+            }
+        ],
+        "country": "",
         "order": 47
     },
     "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce": {
