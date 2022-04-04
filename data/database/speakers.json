@@ -1255,5 +1255,27 @@
         ],
         "country": "",
         "order": 54
+    },
+    "c9a8b648da77430c58904cc76bd0c95cc6d64624": {
+        "name": "Morad Azzouzi",
+        "featured": false,
+        "bio": "More than 9 years of experience with a broad range of computer expertise. Currently Android Developer Senior at InnovOrder. Author of Anti-Theft Security and Auxilium apps.",
+        "company": "Innovorder",
+        "companyLogoUrl": "/images/logos/innovorder.svg",
+        "photoUrl": "/images/people/morad_azzouzi.jpg",
+        "socials": [
+            {
+                "icon": "website",
+                "link": "https://auxilium-apps.com/",
+                "name": "Website"
+            },
+            {
+                "icon": "website",
+                "link": "https://antitheft-security.com/",
+                "name": "Website"
+            }
+        ],
+        "country": "",
+        "order": 55
     }
 }

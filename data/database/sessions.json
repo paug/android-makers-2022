@@ -624,5 +624,17 @@
         "speakers": [
             "cb2e16407c778831b4f990bfbd556135c507867f"
         ]
+    },
+    "": {
+        "title": "Chasing memory leaks in Android apps",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "One of the benefits of the JVM is garbage collection. It's the process by which Java or Kotlin programs perform automatic memory management so we don't have to worry about it.\n\nBut is that entirely true ? What would happen if we kept objects referenced and ended up preventing the GC from doing its job ? That's what we call a memory leak and this could not only make your app lag but also cause OutOfMemory exceptions resulting in a poor user experience.\n\nThis presentation will give you step by step instructions to chase memory leaks and fix them using leak canary or Android Profiler.",
+        "complexity": "Beginner",
+        "speakers": [
+            "c9a8b648da77430c58904cc76bd0c95cc6d64624"
+        ]
     }
 }
