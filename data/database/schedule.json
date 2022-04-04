@@ -1,517 +1,613 @@
 {
-  "2022-04-25": {
-    "date": "2022-04-25",
-    "dateReadable": "April 25th",
-    "timeslots": [
-      {
-        "startTime": "08:00",
-        "endTime": "09:00",
-        "sessions": [
-          {
-            "items": [
-              "registration"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "09:00",
-        "endTime": "09:50",
-        "sessions": [
-          {
-            "items": [
-              "YGC-5550"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          }
-        ]
-      },
-      {
-        "startTime": "09:50",
-        "endTime": "10:20",
-        "sessions": [
-          {
-            "items": [
-              "break"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "10:20",
-        "endTime": "11:05",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "IUO-6413"
-            ]
-          },
-          {
-            "items": [
-              "NZD-1739"
-            ]
-          },
-          {
-            "items": [
-              "CPQ-5361"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "11:20",
-        "endTime": "11:45",
-        "sessions": [
-          {
-            "items": [
-              "RVJ-5513"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "ZKC-6000"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "QLZ-2276"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "XDP-9037"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "11:45",
-        "endTime": "12:05",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "GUU-0892"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "12:05",
-        "endTime": "14:00",
-        "sessions": [
-          {
-            "items": [
-              "lunch"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "14:00",
-        "endTime": "14:45",
-        "sessions": [
-          {
-            "items": [
-              "DFV-7878"
-            ]
-          },
-          {
-            "items": [
-              "DII-9612"
-            ]
-          },
-          {
-            "items": [
-              "VFF-1339"
-            ],
-            "extend": 3
-          },
-          {
-            "items": [
-              "TEB-8393"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "15:00",
-        "endTime": "15:25",
-        "sessions": [
-          {
-            "items": [
-              "RZH-5525"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "TWW-8613"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "AHE-2868"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "15:25",
-        "endTime": "15:45",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "JEA-0128"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "15:45",
-        "endTime": "16:20",
-        "sessions": [
-          {
-            "items": [
-              "break"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "16:20",
-        "endTime": "16:45",
-        "sessions": [
-          {
-            "items": [
-              "ADD-2425"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "LYS-7181"
-            ],
-            "extend": 2
-          },
-          {
-            "items": [
-              "OUC-8969"
-            ],
-            "extend": 4
-          },
-          {
-            "items": [
-              "CQY-3449"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "16:45",
-        "endTime": "17:05",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "FTE-5493"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "17:20",
-        "endTime": "17:45",
-        "sessions": [
-          {
-            "items": [
-              "RYM-4193"
-            ]
-          },
-          {
-            "items": [
-              "JWZ-4774"
-            ],
-            "extend": 2
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "OWT-6626"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "17:45",
-        "endTime": "18:05",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "GUH-2562"
-            ]
-          }
-        ]
-      }
-    ],
-    "tracks": [
-      {
-        "title": "Moebius",
-        "infos": "1st floor"
-      },
-      {
-        "title": "Room A. & L. Blin",
-        "infos": "Basement"
-      },
-      {
-        "title": "Room 2.02",
-        "infos": "2nd floor"
-      },
-      {
-        "title": "Room 2.04",
-        "infos": "2nd floor"
-      }
-    ]
-  },
-  "2022-04-26": {
-    "date": "2022-04-26",
-    "dateReadable": "April 26th",
-    "timeslots": [
-      {
-        "startTime": "09:00",
-        "endTime": "09:30",
-        "sessions": [
-          {
-            "items": [
-              "opening"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "09:30",
-        "endTime": "09:55",
-        "sessions": [
-          {
-            "items": [
-              "KDO-9985"
-            ]
-          },
-          {
-            "items": [
-              "DID-9712"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          }
-        ]
-      },
-      {
-        "startTime": "10:15",
-        "endTime": "10:40",
-        "sessions": [
-          {
-            "items": [
-              "break"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "11:15",
-        "endTime": "11:40",
-        "sessions": [
-          {
-            "items": [
-              "SKI-6755"
-            ]
-          },
-          {
-            "items": [
-              "NHE-5712"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          }
-        ]
-      },
-      {
-        "startTime": "12:00",
-        "endTime": "14:00",
-        "sessions": [
-          {
-            "items": [
-              "lunch"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "14:00",
-        "endTime": "14:25",
-        "sessions": [
-          {
-            "items": [
-              "EST-5335"
-            ]
-          },
-          {
-            "items": [
-              "PKX-2607"
-            ]
-          },
-          {
-            "items": [
-              "IDH-6371"
-            ]
-          },
-          {
-            "items": [
-              "QLS-6916"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "15:00",
-        "endTime": "15:25",
-        "sessions": [
-          {
-            "items": [
-              "TCC-6622"
-            ]
-          },
-          {
-            "items": [
-              "BEH-7755"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "SGC-3820"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "15:45",
-        "endTime": "16:10",
-        "sessions": [
-          {
-            "items": [
-              "break"
-            ]
-          }
-        ]
-      },
-      {
-        "startTime": "16:10",
-        "endTime": "16:35",
-        "sessions": [
-          {
-            "items": [
-              "JAD-6398"
-            ]
-          },
-          {
-            "items": [
-              "DIA-1089"
-            ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          }
-        ]
-      }
-    ],
-    "tracks": [
-      {
-        "title": "Moebius",
-        "infos": "1st floor"
-      },
-      {
-        "title": "Room A. & L. Blin",
-        "infos": "Basement"
-      },
-      {
-        "title": "Room 2.02",
-        "infos": "2nd floor"
-      },
-      {
-        "title": "Room 2.04",
-        "infos": "2nd floor"
-      },
-      {
-        "title": "Office Hours",
-        "infos": "1st floor"
-      }
-    ]
+    "2022-04-25": {
+      "dateReadable": "April 25th",
+      "timeslots": [
+        {
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "sessions": [
+            {
+              "items": [
+                "registration"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "09:50",
+          "sessions": [
+            {
+              "items": [
+                "YGC-5550"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "09:50",
+          "endTime": "10:20",
+          "sessions": [
+            {
+              "items": [
+                "break"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:20",
+          "endTime": "11:05",
+          "sessions": [
+            {
+              "items": [
+                "SFM-4681"
+              ]
+            },
+            {
+              "items": [
+                "IUO-6413"
+              ]
+            },
+            {
+              "items": [
+                "NZD-1739"
+              ]
+            },
+            {
+              "items": [
+                "CPQ-5361"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "11:20",
+          "endTime": "11:45",
+          "sessions": [
+            {
+              "items": [
+                "RVJ-5513"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "ZKC-6000"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "QLZ-2276"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "XDP-9037"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "11:45",
+          "endTime": "12:05",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "GUU-0892"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "12:05",
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                "lunch"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": [
+                "DFV-7878"
+              ]
+            },
+            {
+              "items": [
+                "DII-9612"
+              ]
+            },
+            {
+              "items": [
+                "VFF-1339"
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                "TEB-8393"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:00",
+          "endTime": "15:25",
+          "sessions": [
+            {
+              "items": [
+                "RZH-5525"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "TWW-8613"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "AHE-2868"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:25",
+          "endTime": "15:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "GWS-5570"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "JEA-0128"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:45",
+          "endTime": "16:20",
+          "sessions": [
+            {
+              "items": [
+                "break"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "16:20",
+          "endTime": "16:45",
+          "sessions": [
+            {
+              "items": [
+                "ADD-2425"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "LYS-7181"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "OUC-8969"
+              ],
+              "extend": 4
+            },
+            {
+              "items": [
+                "CQY-3449"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "16:45",
+          "endTime": "17:05",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "FTE-5493"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "17:20",
+          "endTime": "17:45",
+          "sessions": [
+            {
+              "items": [
+                "RYM-4193"
+              ]
+            },
+            {
+              "items": [
+                "JWZ-4774"
+              ],
+              "extend": 2
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "OWT-6626"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "17:45",
+          "endTime": "18:05",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                "GUH-2562"
+              ]
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Moebius",
+          "infos": "1st floor"
+        },
+        {
+          "title": "Room A. & L. Blin",
+          "infos": "Basement"
+        },
+        {
+          "title": "Room 2.02",
+          "infos": "2nd floor"
+        },
+        {
+          "title": "Room 2.04",
+          "infos": "2nd floor"
+        }
+      ]
+    },
+    "2022-04-26": {
+      "dateReadable": "April 26th",
+      "timeslots": [
+        {
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "sessions": [
+            {
+              "items": [
+                "opening"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "10:15",
+          "sessions": [
+            {
+              "items": [
+                "KDO-9985"
+              ]
+            },
+            {
+              "items": [
+                "DID-9712"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "10:40",
+          "sessions": [
+            {
+              "items": [
+                "break"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:40",
+          "endTime": "11:00",
+          "sessions": [
+            {
+              "items": [
+                "XEC-3216"
+              ]
+            },
+            {
+              "items": [
+                "NKV-0419"
+              ]
+            },
+            {
+              "items": [
+                "YRV-5644"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "PBU-0425"
+              ],
+              "extend": 2
+            }
+          ]
+        },
+        {
+          "startTime": "11:15",
+          "endTime": "12:00",
+          "sessions": [
+            {
+              "items": [
+                "JAD-6398"
+              ]
+            },
+            {
+              "items": [
+                "NHE-5712"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                "lunch"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:25",
+          "sessions": [
+            {
+              "items": [
+                "EST-5335"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "PKX-2607"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "IDH-6371"
+              ]
+            },
+            {
+              "items": [
+                "QLS-6916"
+              ],
+              "extend": 2
+            }
+          ]
+        },
+        {
+          "startTime": "14:25",
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "sessions": [
+            {
+              "items": [
+                "TCC-6622"
+              ]
+            },
+            {
+              "items": [
+                "BEH-7755"
+              ]
+            },
+            {
+              "items": [
+                "SGC-3820"
+              ]
+            },
+            {
+              "items": [
+                "SGC-3820"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "15:45",
+          "endTime": "16:10",
+          "sessions": [
+            {
+              "items": [
+                "break"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "16:10",
+          "endTime": "16:35",
+          "sessions": [
+            {
+              "items": [
+                "SKI-6755"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "DIA-1089"
+              ],
+              "extend": 2
+            },
+            {
+              "items": [
+                "PXN-5831"
+              ]
+            },
+            {
+              "items": [],
+              "extend": 2
+            }
+          ]
+        },
+        {
+          "startTime": "16:35",
+          "endTime": "16:55",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "17:10",
+          "endTime": "18:00",
+          "sessions": [
+            {
+              "items": [
+                "surprise"
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Moebius",
+          "infos": "1st floor"
+        },
+        {
+          "title": "Room A. & L. Blin",
+          "infos": "Basement"
+        },
+        {
+          "title": "Room 2.02",
+          "infos": "2nd floor"
+        },
+        {
+          "title": "Room 2.04",
+          "infos": "2nd floor"
+        },
+        {
+          "title": "Office Hours",
+          "infos": "1st floor"
+        }
+      ]
+    }
   }
-}
