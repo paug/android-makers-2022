@@ -271,7 +271,7 @@
         "sessions": [
           {
             "items": [
-              "RYM-4193"
+              "XEC-3216"
             ]
           },
           {
@@ -395,7 +395,7 @@
         "sessions": [
           {
             "items": [
-              "XEC-3216"
+              "RYM-4193"
             ]
           },
           {
@@ -428,7 +428,7 @@
           },
           {
             "items": [
-              "NHE-5712"
+              ""
             ]
           },
           {
@@ -456,7 +456,7 @@
         "sessions": [
           {
             "items": [
-              "EST-5335"
+              "NHE-5712"
             ],
             "extend": 2
           },
@@ -504,7 +504,9 @@
         "endTime": "15:45",
         "sessions": [
           {
-            "items": []
+            "items": [
+              "SKI-6755"
+            ]
           },
           {
             "items": [
@@ -538,7 +540,7 @@
         "sessions": [
           {
             "items": [
-              "SKI-6755"
+              "EST-5335"
             ],
             "extend": 2
           },
