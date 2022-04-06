@@ -309,6 +309,17 @@
             ]
           }
         ]
+      },
+      {
+        "startTime": "18:05",
+        "endTime": "21:00",
+        "sessions": [
+          {
+            "items": [
+              "party"
+            ]
+          }
+        ]
       }
     ],
     "tracks": [

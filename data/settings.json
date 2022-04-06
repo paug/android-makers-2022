@@ -5,8 +5,8 @@
       "twitter": "parisandroidug",
       "blog": "/blog/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2022-04-25T09:00:00+01:00",
+  "endDate": "2022-04-26T19:00:00+01:00",
   "webapp": {
     "shortName": "AndroidMakers",
     "themeColor": "#e95040",
@@ -27,6 +27,11 @@
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule",
+      "label": "Schedule"
     },
     {
       "route": "team",
