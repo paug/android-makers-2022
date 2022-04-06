@@ -207,7 +207,7 @@
             "Android Development"
         ],
         "language": "English/French",
-        "description": "Une migration pas facile qu'est celle d'Android 12 ! Ce talk vous comptera toutes les subtilités qu'ils faut connaître avant de migrer votre application vers Android 12.\n\nDu Manifest aux PendingIntent en passant par les nouvelles restrictions du côté du Bluetooth ou encore au niveau de la sécurité et de la vie privée. Android 12 apporte énormément de changements (et certain bien caché !) pour les développeurs. Nous explorerons comment s'occuper de la migration vers cette nouvelle version d'Android et quelques tools qui peuvent nous faciliter la tâche.\n\nUne des migrations les plus laborieuses depuis Android 6 et l'introduction des permissions au runtime 😆 3, 2, 1 on replie !",
+        "description": "Une migration pas facile qu'est celle d'Android 12 ! Ce talk vous comptera toutes les subtilités qu'il faut connaître avant de migrer votre application vers Android 12.\n\nDu Manifest aux PendingIntent en passant par les nouvelles restrictions du côté du Bluetooth ou encore au niveau de la sécurité et de la vie privée. Android 12 apporte énormément de changements (et certains bien cachés !) pour les développeurs. Nous explorerons comment s'occuper de la migration vers cette nouvelle version d'Android et quelques tools qui peuvent nous faciliter la tâche.\n\nUne des migrations les plus laborieuses depuis Android 6 et l'introduction des permissions au runtime 😆 3, 2, 1 on replie !",
         "complexity": "Beginner",
         "speakers": [
             "b59333a429b238f81f8c0a6377da8c8f052f917f"
