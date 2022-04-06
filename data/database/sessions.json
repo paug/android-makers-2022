@@ -626,12 +626,12 @@
         ]
     },
     "YLE-5245": {
-        "title": "Chasing memory leaks in Android apps",
+        "title": "Les fuites mémoire sous Android : retour d'expérience et méthodologie",
         "tags": [
             "Android Development"
         ],
-        "language": "English",
-        "description": "One of the benefits of the JVM is garbage collection. It's the process by which Java or Kotlin programs perform automatic memory management so we don't have to worry about it.\n\nBut is that entirely true ? What would happen if we kept objects referenced and ended up preventing the GC from doing its job ? That's what we call a memory leak and this could not only make your app lag but also cause OutOfMemory exceptions resulting in a poor user experience.\n\nThis presentation will give you step by step instructions to chase memory leaks and fix them using leak canary or Android Profiler.",
+        "language": "French",
+        "description": "L'un des gros avantages de la JVM est le \"garbage collector\". C'est le processus par lequel les applications Android effectuent une gestion automatique de la mémoire afin que nous n'ayons pas à nous en soucier.\n\nMais est-ce tout à fait vrai ? Que se passerait-il si nous gardions des objets référencés et finissions par empêcher le GC de faire son travail ? C'est ce que nous appelons une fuite de mémoire et cela pourrait non seulement faire \"laguer\" votre application, mais également provoquer des exceptions de type \"OutOfMemoryError\", entraînant une très mauvaise expérience utilisateur.\n\nCette présentation vous donnera des instructions étape par étape pour chasser les fuites mémoire et les corriger à l'aide de LeakCanary et Android Profiler.",
         "complexity": "Intermediate",
         "speakers": [
             "c9a8b648da77430c58904cc76bd0c95cc6d64624"
