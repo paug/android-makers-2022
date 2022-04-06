@@ -26,6 +26,12 @@
                 "logoUrl": "../images/logos/bitrise.svg",
                 "name": "Bitrise",
                 "url": "http://bitrise.io/"
+            },
+            {
+                "order": 1,
+                "logoUrl": "../images/logos/babbel.jpeg",
+                "name": "Babbel",
+                "url": "https://babbel.com/"
             }
         ]
     },

@@ -612,5 +612,29 @@
         "speakers": [
             "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95"
         ]
+    },
+    "GWS-5570": {
+        "title": "My coroutines patterns and habits, 3 years later",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Back in 2019 at Android Makers, I claimed that you could make any codebase more readable with coroutines\n\nSince then, a lot of things happened. Most notably, Google is recommending their use in Android apps, and many AndroidX libraries are now leveraging coroutines, and flows. In the meantime, I also did more coroutines (and flows), and here's a number: more that 1/3 of the functions in a project I worked on for 7 years are suspending functions.\n\nWhy do I use coroutines so much? Any pro-tips? What are the benefits? Are there downsides? How does it look like? Is it readable? Is it maintainable? Is it reliable?\n\nAlso, why are almost 2/3 of the functions I wrote non suspending?\n\nIn this talk, I'll share some examples of substantial usage of coroutines and flows not only in business logic but also in UI, be it with Compose or the View system, I'll share my mental model, and I'll ask you what you think about it.",
+        "complexity": "Intermediate",
+        "speakers": [
+            "cb2e16407c778831b4f990bfbd556135c507867f"
+        ]
+    },
+    "YLE-5245": {
+        "title": "Chasing memory leaks in Android apps",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "One of the benefits of the JVM is garbage collection. It's the process by which Java or Kotlin programs perform automatic memory management so we don't have to worry about it.\n\nBut is that entirely true ? What would happen if we kept objects referenced and ended up preventing the GC from doing its job ? That's what we call a memory leak and this could not only make your app lag but also cause OutOfMemory exceptions resulting in a poor user experience.\n\nThis presentation will give you step by step instructions to chase memory leaks and fix them using leak canary or Android Profiler.",
+        "complexity": "Intermediate",
+        "speakers": [
+            "c9a8b648da77430c58904cc76bd0c95cc6d64624"
+        ]
     }
 }

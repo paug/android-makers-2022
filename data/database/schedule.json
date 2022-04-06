@@ -50,7 +50,9 @@
         "endTime": "11:05",
         "sessions": [
           {
-            "items": []
+            "items": [
+              "SFM-4681"
+            ]
           },
           {
             "items": [
@@ -189,7 +191,9 @@
             "items": []
           },
           {
-            "items": []
+            "items": [
+              "GWS-5570"
+            ]
           },
           {
             "items": []
@@ -343,7 +347,7 @@
       },
       {
         "startTime": "09:30",
-        "endTime": "09:55",
+        "endTime": "10:15",
         "sessions": [
           {
             "items": [
@@ -375,12 +379,40 @@
         ]
       },
       {
-        "startTime": "11:15",
-        "endTime": "11:40",
+        "startTime": "10:40",
+        "endTime": "11:00",
         "sessions": [
           {
             "items": [
-              "SKI-6755"
+              "XEC-3216"
+            ]
+          },
+          {
+            "items": [
+              "NKV-0419"
+            ]
+          },
+          {
+            "items": [
+              "YRV-5644"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "PBU-0425"
+            ],
+            "extend": 2
+          }
+        ]
+      },
+      {
+        "startTime": "11:15",
+        "endTime": "12:00",
+        "sessions": [
+          {
+            "items": [
+              "JAD-6398"
             ]
           },
           {
@@ -414,12 +446,14 @@
           {
             "items": [
               "EST-5335"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "PKX-2607"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
@@ -429,18 +463,37 @@
           {
             "items": [
               "QLS-6916"
+            ],
+            "extend": 2
+          }
+        ]
+      },
+      {
+        "startTime": "14:25",
+        "endTime": "14:45",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "YLE-5245"
             ]
+          },
+          {
+            "items": []
           }
         ]
       },
       {
         "startTime": "15:00",
-        "endTime": "15:25",
+        "endTime": "15:45",
         "sessions": [
           {
-            "items": [
-              "TCC-6622"
-            ]
+            "items": []
           },
           {
             "items": [
@@ -448,12 +501,12 @@
             ]
           },
           {
-            "items": []
-          },
-          {
             "items": [
               "SGC-3820"
             ]
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -474,13 +527,56 @@
         "sessions": [
           {
             "items": [
-              "JAD-6398"
-            ]
+              "SKI-6755"
+            ],
+            "extend": 2
           },
           {
             "items": [
               "DIA-1089"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "PXN-5831"
             ]
+          },
+          {
+            "items": [],
+            "extend": 2
+          }
+        ]
+      },
+      {
+        "startTime": "16:35",
+        "endTime": "16:55",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "17:10",
+        "endTime": "18:00",
+        "sessions": [
+          {
+            "items": [
+              "surprise"
+            ]
+          },
+          {
+            "items": []
           },
           {
             "items": []
