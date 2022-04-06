@@ -266,6 +266,36 @@
           ],
           "order": 0,
           "title": "Organizer"
+        },
+        {
+          "name": "Soriya Thach",
+          "photoUrl": "/images/people/soriya_thach.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/soriyathach/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Soriya_fr",
+              "name": "Twitter"
+            },
+            
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/soriya.fr/",
+              "name": "Instagram"
+            },
+            {
+              "icon": "website",
+              "link": "https://soriya.fr/",
+              "name": "Blog"
+            }
+          ],
+          "order": 0,
+          "title": "Photographer"
         }
       ],
       "title": "PAUG"
