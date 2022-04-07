@@ -74,7 +74,7 @@
           "logoUrl": "../images/logos/babbel.jpeg",
           "name": "Babbel",
           "url": "https://us.babbelforbusiness.com/"
-      }
+        }
       ]
     },
     {
@@ -268,6 +268,29 @@
           "title": "Organizer"
         },
         {
+          "name": "Amaël Sikel",
+          "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEwoyi333Y0ow/profile-displayphoto-shrink_400_400/0/1595272783874?e=1654732800&v=beta&t=ZUZpKrVyL4EhBXgXM_v-PBwg-K7Iz9OaBZ6h9ZNzmN0",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/r4dixx",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/r4dixx",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://r4dixx.github.io/",
+              "name": "Website"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
           "name": "Soriya Thach",
           "photoUrl": "/images/people/soriya_thach.jpg",
           "photo": "",
@@ -282,7 +305,6 @@
               "link": "https://twitter.com/Soriya_fr",
               "name": "Twitter"
             },
-            
             {
               "icon": "instagram",
               "link": "https://www.instagram.com/soriya.fr/",
