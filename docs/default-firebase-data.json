@@ -95,7 +95,7 @@
         },
         {
           "order": 2,
-          "logoUrl": "../images/logos/meetic.jpg",
+          "logoUrl": "../images/logos/meetic.png",
           "name": "Meetic",
           "url": "https://www.meetic-group.com"
         }
@@ -115,7 +115,13 @@
           "order": 1,
           "logoUrl": "../images/logos/contentsquare.svg",
           "name": "Contentsquare",
-          "url": "https://contentsquare.com/"
+          "url": "https://engineering.contentsquare.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/trainline.png",
+          "name": "Trainline",
+          "url": "https://www.thetrainline.com/fr"
         }
       ]
     },
@@ -270,6 +276,7 @@
         {
           "name": "Amaël Sikel",
           "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEwoyi333Y0ow/profile-displayphoto-shrink_400_400/0/1595272783874?e=1654732800&v=beta&t=ZUZpKrVyL4EhBXgXM_v-PBwg-K7Iz9OaBZ6h9ZNzmN0",
+          "photo": "",
           "socials": [
             {
               "icon": "twitter",
@@ -285,6 +292,25 @@
               "icon": "website",
               "link": "https://r4dixx.github.io/",
               "name": "Website"
+            }
+          ],
+          "order": 0,
+          "title": "Organizer"
+        },
+        {
+          "name": "Stan Kocken",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1013865859880759297/s0cSh-qU_400x400.jpg",
+          "photo": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/stan_kocken",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/stankocken",
+              "name": "LinkedIn"
             }
           ],
           "order": 0,
