@@ -200,7 +200,7 @@
       {
         "endDate": "2022-04-25T17:45:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "RYM-4193",
+        "sessionId": "XEC-3216",
         "startDate": "2022-04-25T17:20:00+02:00"
       },
       {
@@ -220,6 +220,12 @@
         "roomId": "2.04",
         "sessionId": "GUH-2562",
         "startDate": "2022-04-25T17:45:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T21:00:00+02:00",
+        "roomId": "all",
+        "sessionId": "party",
+        "startDate": "2022-04-25T18:05:00+02:00"
       },
       {
         "endDate": "2022-04-26T09:30:00+02:00",
@@ -248,7 +254,7 @@
       {
         "endDate": "2022-04-26T11:00:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "XEC-3216",
+        "sessionId": "RYM-4193",
         "startDate": "2022-04-26T10:40:00+02:00"
       },
       {
@@ -276,12 +282,6 @@
         "startDate": "2022-04-26T11:15:00+02:00"
       },
       {
-        "endDate": "2022-04-26T12:00:00+02:00",
-        "roomId": "Blin",
-        "sessionId": "NHE-5712",
-        "startDate": "2022-04-26T11:15:00+02:00"
-      },
-      {
         "endDate": "2022-04-26T14:00:00+02:00",
         "roomId": "all",
         "sessionId": "lunch",
@@ -290,7 +290,7 @@
       {
         "endDate": "2022-04-26T14:45:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "EST-5335",
+        "sessionId": "NHE-5712",
         "startDate": "2022-04-26T14:00:00+02:00"
       },
       {
@@ -319,6 +319,12 @@
       },
       {
         "endDate": "2022-04-26T15:45:00+02:00",
+        "roomId": "Moebius",
+        "sessionId": "SKI-6755",
+        "startDate": "2022-04-26T15:00:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T15:45:00+02:00",
         "roomId": "Blin",
         "sessionId": "BEH-7755",
         "startDate": "2022-04-26T15:00:00+02:00"
@@ -330,12 +336,6 @@
         "startDate": "2022-04-26T15:00:00+02:00"
       },
       {
-        "endDate": "2022-04-26T15:45:00+02:00",
-        "roomId": "2.04",
-        "sessionId": "",
-        "startDate": "2022-04-26T15:00:00+02:00"
-      },
-      {
         "endDate": "2022-04-26T16:10:00+02:00",
         "roomId": "all",
         "sessionId": "break",
@@ -344,7 +344,7 @@
       {
         "endDate": "2022-04-26T16:55:00+02:00",
         "roomId": "Moebius",
-        "sessionId": "SKI-6755",
+        "sessionId": "EST-5335",
         "startDate": "2022-04-26T16:10:00+02:00"
       },
       {
