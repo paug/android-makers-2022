@@ -1,4 +1,4 @@
-name: CI
+name: Update Firestore data
 
 on:
   push:
@@ -16,10 +16,10 @@ jobs:
         with:
           node-version: '17'
       - run: npm install
-      - run: npm run build
       - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
         env:
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+      - run: npm run build
       - run: npm run firestore:copy data/database/partners.json partners
       - run: npm run firestore:copy data/database/rooms.json rooms
       - run: npm run firestore:copy data/database/schedule-app.json schedule-app
