@@ -228,5 +228,13 @@ service cloud.firestore {
       // Disallow writes
       allow write: if false;
     }
+
+    match /schedule-app/{slot} {
+      allow read;
+    }
+
+    match /venues/{id} {
+      allow read;
+    }
   }
 }
