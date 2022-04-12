@@ -1248,5 +1248,30 @@
         ],
         "country": "",
         "order": 55
+    },
+    "5978cd774e924d51f2923d8620f1346a3392263c": {
+        "name": "Nick Butcher",
+        "featured": false,
+        "bio": "Nick is an Android Developer Relations Engineer, focussed on UI and Jetpack Compose.",
+        "company": "Google",
+        "companyLogoUrl": "/images/logos/google.svg",
+        "photoUrl": "/images/people/nick_butcher.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/crafty",
+                "name": "Twitter"
+            }
+            
+        ],
+        "badges": [
+            {
+                "description": "Android developer relations",
+                "link": "https://developer.android.com/",
+                "name": "google"
+            }
+        ],
+        "country": "",
+        "order": 56
     }
 }
