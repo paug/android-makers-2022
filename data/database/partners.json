@@ -31,7 +31,7 @@
                 "order": 1,
                 "logoUrl": "../images/logos/babbel.jpeg",
                 "name": "Babbel",
-                "url": "https://babbel.com/"
+                "url": "https://us.babbelforbusiness.com/"
             }
         }
     },
@@ -51,25 +51,25 @@
                 "name": "Exomind",
                 "url": "https://www.exomind.fr/"
             },
-            {
+            "002": {
                 "order": 2,
                 "logoUrl": "../images/logos/meetic.png",
                 "name": "Meetic",
                 "url": "https://www.meetic-group.com"
             },
-            {
+            "003": {
                 "order": 3,
                 "logoUrl": "../images/logos/qonto-small-margin.png",
                 "name": "Qonto",
                 "url": "https://qonto.com/"
             },
-            {
+            "004": {
                 "order": 4,
                 "logoUrl": "../images/logos/blablacar.png",
                 "name": "Blablacar",
                 "url": "https://www.blablacar.fr/"
             }
-    }
+        }
     },
     "3": {
         "order": 3,
@@ -81,19 +81,19 @@
                 "name": "Deezer",
                 "url": "https://www.deezer.com/en/company/about"
             },
-            {
+            "001": {
                 "order": 1,
                 "logoUrl": "../images/logos/contentsquare.svg",
                 "name": "Contentsquare",
                 "url": "https://engineering.contentsquare.com/"
             },
-            {
+            "002": {
                 "order": 2,
                 "logoUrl": "../images/logos/trainline.png",
                 "name": "Trainline",
                 "url": "https://www.thetrainline.com/fr"
             },
-            {
+            "003": {
                 "order": 3,
                 "logoUrl": "../images/logos/stream.png",
                 "name": "Stream",

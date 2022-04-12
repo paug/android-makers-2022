@@ -3,7 +3,7 @@ name: Update Firestore data
 on:
   push:
     branches:
-      #- github-action
+      - github-action
       - master
 
 jobs:
@@ -11,20 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: '17'
-      - run: npm install
       - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
         env:
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
-      - run: npm run build
-      - run: npm run firestore:copy data/database/partners.json partners
-      - run: npm run firestore:copy data/database/rooms.json rooms
-      - run: npm run firestore:copy data/database/schedule-app.json schedule-app
-      - run: npm run firestore:copy data/database/schedule.json schedule
-      - run: npm run firestore:copy data/database/sessions.json sessions
-      - run: npm run firestore:copy data/database/speakers.json speakers
-      - run: npm run firestore:copy data/database/venues.json venues
-
+      - run: ./scripts/copy-data.main.kts data/database/*
