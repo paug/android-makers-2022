@@ -133,28 +133,48 @@
       },
       {
         "startTime": "14:00",
-        "endTime": "14:45",
+        "endTime": "14:25",
         "sessions": [
           {
             "items": [
               "DFV-7878"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "DII-9612"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "VFF-1339"
             ],
-            "extend": 3
+            "extend": 4
           },
           {
             "items": [
               "TEB-8393"
             ]
+          }
+        ]
+      },
+      {
+        "startTime": "14:25",
+        "endTime": "14:45",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
           }
         ]
       },
