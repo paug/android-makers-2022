@@ -1,0 +1,7 @@
+Contentsquare empowers brands to build better digital experiences. Our experience analytics platform tracks and visualizes billions of digital behaviors, delivering intelligent recommendations that everyone can use to grow revenue, increase loyalty and fuel innovation. 
+
+Founded in Paris in 2012, Contentsquare has since opened offices in New York, London, San Francisco, Munich, Tel Aviv, Singapore and Tokyo. Today, it helps more than 750 enterprises in 26 countries deliver better digital experiences for their customers.
+
+Contentsquare has grown exponentially in the past few years, acquiring four companies since 2019 — including its nearest competitor, Clicktale. It has raised $310 million in funding in the last five years, closing a Series D round for $190M at the height of the Covid crisis. In 2020 it launched its Experience Partner Ecosystem and completed +75 new technology integrations. With the acquisition of accessibility software AdaptMyWeb in 2020, and subsequent launch of the Contentsquare Foundation, the company announced an expanded mission to promote digital accessibility in the areas of education, technology and corporate social responsibility.
+
+Check out our tech blog on https://engineering.contentsquare.com/

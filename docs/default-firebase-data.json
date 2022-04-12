@@ -1,13 +1,22 @@
 {
   "blog": {
     "deezer": {
-      "backgroundColor": "#3647a5",
+      "backgroundColor": "#C16C05",
       "brief": "With over 90 million songs and a presence in 180 countries...",
       "content": "With over 90 million songs and a presence in 180 countries, Deezer is the music streaming service that adapts to your needs, tastes and musical mood. We also offer a large catalogue of podcasts, audiobooks and radio channels, as well as Deezer Originals exclusives. </br></br>At Deezer, we combine top curated content from our editors with the best music algorithms to help fans discover the songs, artists and albums they love. All our users have access to music, unique features (e.g. Flow, SongCatcher) and personalised recommendations on mobile and web. Paying subscribers can enjoy unlimited, ad-free music, podcasts and more on all devices, even offline.</br></br>The Deezer teams are composed of passionate people who work together to deliver the best experience on multiple platforms. On Android, 20 engineers are continuously developing and improving our apps. We are keen to share our learnings and show you some of the work we do behind the scenes, so feel free to stop by and attend our talk!</br></br>In the meantime, you can visit our website https://www.deezer.com/ and check our latest news.",
       "image": "/images/logos/deezer.png",
       "published": "2022-03-29",
       "source": "/data/posts/deezer.md",
       "title": "About Deezer"
+    },
+    "contentsquare": {
+      "backgroundColor": "#FFFFFF",
+      "brief": "Contentsquare empowers brands to build better digital experiences...",
+      "content": "Contentsquare empowers brands to build better digital experiences. Our experience analytics platform tracks and visualizes billions of digital behaviors, delivering intelligent recommendations that everyone can use to grow revenue, increase loyalty and fuel innovation. </br></br>Founded in Paris in 2012, Contentsquare has since opened offices in New York, London, San Francisco, Munich, Tel Aviv, Singapore and Tokyo. Today, it helps more than 750 enterprises in 26 countries deliver better digital experiences for their customers.</br></br>Contentsquare has grown exponentially in the past few years, acquiring four companies since 2019 — including its nearest competitor, Clicktale. It has raised $310 million in funding in the last five years, closing a Series D round for $190M at the height of the Covid crisis. In 2020 it launched its Experience Partner Ecosystem and completed +75 new technology integrations. With the acquisition of accessibility software AdaptMyWeb in 2020, and subsequent launch of the Contentsquare Foundation, the company announced an expanded mission to promote digital accessibility in the areas of education, technology and corporate social responsibility.</br></br>Check out our tech blog on https://engineering.contentsquare.com/",
+      "image": "/images/logos/contentsquare.png",
+      "published": "2022-04-12",
+      "source": "/data/posts/contentsquare.md",
+      "title": "About Contentsquare"
     }
   },
   "gallery": [
