@@ -1,51 +1,51 @@
-[
-    {
+{
+    "0": {
         "order": 0,
         "title": "Event Organizers",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/organizer-bma-logo.svg",
                 "name": "BeMyApp",
                 "url": "https://www.bemyapp.com/"
             },
-            {
+            "001": {
                 "order": 1,
                 "logoUrl": "../images/logos/organizer-paug-logo.svg",
                 "name": "Paris Android User Group",
                 "url": "https://www.paug.fr/"
             }
-        ]
+        }
     },
-    {
+    "1": {
         "order": 1,
         "title": "Gold sponsor",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/bitrise.svg",
                 "name": "Bitrise",
                 "url": "http://bitrise.io/"
             },
-            {
+            "001": {
                 "order": 1,
                 "logoUrl": "../images/logos/babbel.jpeg",
                 "name": "Babbel",
                 "url": "https://babbel.com/"
             }
-        ]
+        }
     },
-    {
+    "2": {
         "order": 2,
         "title": "Silver sponsors",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/coyote.png",
                 "name": "Coyote",
                 "url": "https://corporate.moncoyote.com/"
             },
-            {
+            "001": {
                 "order": 1,
                 "logoUrl": "../images/logos/exomind.png",
                 "name": "Exomind",
@@ -69,13 +69,13 @@
                 "name": "Blablacar",
                 "url": "https://www.blablacar.fr/"
             }
-        ]
+    }
     },
-    {
+    "3": {
         "order": 3,
         "title": "Virtual sponsors",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/deezer.png",
                 "name": "Deezer",
@@ -99,30 +99,30 @@
                 "name": "Stream",
                 "url": "https://getstream.io/"
             }
-        ]
+        }
     },
-    {
+    "4": {
         "order": 4,
         "title": "Individual Speaker Sponsor",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/slack.svg",
                 "name": "Slack",
                 "url": "https://slack.com/careers/dept/products-and-technology"
             }
-        ]
+        }
     },
-    {
+    "5": {
         "order": 5,
         "title": "Template Creator",
-        "items": [
-            {
+        "items-firestoreCollection": {
+            "000": {
                 "order": 0,
                 "logoUrl": "../images/logos/gdg-lviv.svg",
                 "name": "GDG Lviv",
                 "url": "https://www.meetup.com/GDG-Lviv/"
             }
-        ]
+        }
     }
-]
+}
