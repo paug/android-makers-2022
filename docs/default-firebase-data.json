@@ -107,6 +107,12 @@
           "logoUrl": "../images/logos/meetic.png",
           "name": "Meetic",
           "url": "https://www.meetic-group.com"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/qonto.png",
+          "name": "Qonto",
+          "url": "https://qonto.com/"
         }
       ]
     },
