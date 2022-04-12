@@ -152,18 +152,6 @@
             "8fa3cb19406c7ae83ce2695ce8b4dfa75648d074"
         ]
     },
-    "TCC-6622": {
-        "title": "Life of a frame in Jetpack Compose",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "Jetpack Compose has 4 distinct phases which happen in a frame: composition, measure, layout and drawing. In this session the speaker will go through each phase and demonstrate how they work together to deliver a powerful reactive UI framework.\n\nWe will go through a number of examples to explore where the boundaries of each phase lies, and show you how to write your own performant componentry. We'll then explore what subcomposition is, why it is useful, and how LazyColumn & friends work 'under the hood'.",
-        "complexity": "Intermediate",
-        "speakers": [
-            "e268bfa0638f27063c6cca15df3584abaf2bbf90"
-        ]
-    },
     "LYS-7181": {
         "title": "A talk about talks",
         "tags": [
