@@ -236,5 +236,9 @@ service cloud.firestore {
     match /venues/{id} {
       allow read;
     }
+
+    match /rooms/{id} {
+      allow read;
+    }
   }
 }
