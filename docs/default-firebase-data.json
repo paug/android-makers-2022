@@ -110,9 +110,15 @@
         },
         {
           "order": 3,
-          "logoUrl": "../images/logos/qonto.png",
+          "logoUrl": "../images/logos/qonto-small-margin.png",
           "name": "Qonto",
           "url": "https://qonto.com/"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/blablacar.png",
+          "name": "Blablacar",
+          "url": "https://www.blablacar.fr/"
         }
       ]
     },
