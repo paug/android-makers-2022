@@ -379,35 +379,6 @@
         "country": "",
         "order": 14
     },
-    "e268bfa0638f27063c6cca15df3584abaf2bbf90": {
-        "name": "Chris Banes",
-        "featured": false,
-        "bio": "Chris is the technical lead of the Client UI team at Twitter. He previously worked at Google on the Android Developer Relations team, where he worked on AndroidX, most notably AppCompat, Design and Palette. He has worked on Android things since 2010 years, from open source libraries to media apps, social networks and most stuff in between.",
-        "company": "Twitter",
-        "companyLogoUrl": "/images/logos/twitter.svg",
-        "photoUrl": "/images/people/chris_banes.jpg",
-        "socials": [
-            {
-                "icon": "twitter",
-                "link": "https://twitter.com/chrisbanes",
-                "name": "Twitter"
-            },
-            {
-                "icon": "website",
-                "link": "https://chris.banes.dev",
-                "name": "Blog"
-            }
-        ],
-        "badges": [
-            {
-                "description": "Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-christopher-banes",
-                "name": "gde"
-            }
-        ],
-        "country": "",
-        "order": 15
-    },
     "9c664410ea429bd31e4103fb1eb6e2bbe7b7f34f": {
         "name": "Effie Barak",
         "featured": false,
@@ -1277,5 +1248,30 @@
         ],
         "country": "",
         "order": 55
+    },
+    "5978cd774e924d51f2923d8620f1346a3392263c": {
+        "name": "Nick Butcher",
+        "featured": false,
+        "bio": "Nick is an Android Developer Relations Engineer, focussed on UI and Jetpack Compose.",
+        "company": "Google",
+        "companyLogoUrl": "/images/logos/google.svg",
+        "photoUrl": "/images/people/nick_butcher.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/crafty",
+                "name": "Twitter"
+            }
+            
+        ],
+        "badges": [
+            {
+                "description": "Android developer relations",
+                "link": "https://developer.android.com/",
+                "name": "google"
+            }
+        ],
+        "country": "",
+        "order": 56
     }
 }

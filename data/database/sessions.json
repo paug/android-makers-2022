@@ -152,18 +152,6 @@
             "8fa3cb19406c7ae83ce2695ce8b4dfa75648d074"
         ]
     },
-    "TCC-6622": {
-        "title": "Life of a frame in Jetpack Compose",
-        "tags": [
-            "Android Development"
-        ],
-        "language": "English",
-        "description": "Jetpack Compose has 4 distinct phases which happen in a frame: composition, measure, layout and drawing. In this session the speaker will go through each phase and demonstrate how they work together to deliver a powerful reactive UI framework.\n\nWe will go through a number of examples to explore where the boundaries of each phase lies, and show you how to write your own performant componentry. We'll then explore what subcomposition is, why it is useful, and how LazyColumn & friends work 'under the hood'.",
-        "complexity": "Intermediate",
-        "speakers": [
-            "e268bfa0638f27063c6cca15df3584abaf2bbf90"
-        ]
-    },
     "LYS-7181": {
         "title": "A talk about talks",
         "tags": [
@@ -510,7 +498,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Flutter for Mobile has been stable for more than 3 years. One strategy to introduce this great technology on our current teams is to integrate a module into the existing app. In theory, this task can be done quite easily, but in the real world we have to take into account current development processes: how does the module integrates with the current CI/CD systems? Which architecture and patterns should be followed on the codebase? Which responsibilities should the module have? UI only? UI and some business code? Should it manage its own API calls and local storage? In this talk, I'll walk you through these subjects and how we solved them.",
+        "description": "Flutter for Mobile has been stable for more than 3 years. One strategy to introduce this great technology on our current teams is to integrate a module into the existing app. In theory, this task can be done quite easily, but in the real world we have to take into account current development processes: how does the module integrates with the current CI/CD systems? Which architecture and patterns should be followed on the codebase? Which responsibilities should the module have? UI only? UI and some business code? Should it manage its own API calls and local storage? In this talk, I'll walk you through these subjects and how we solved them.\n\n*** this talk will be given remotely ***",
         "complexity": "Beginner",
         "speakers": [
             "109d33decd394492fbd5b99a92dd7607d821d27c"
