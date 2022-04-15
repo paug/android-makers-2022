@@ -148,10 +148,16 @@
           "url": "https://engineering.contentsquare.com/"
         },
         {
-          "order": 1,
+          "order": 2,
           "logoUrl": "../images/logos/trainline.png",
           "name": "Trainline",
           "url": "https://www.thetrainline.com/fr"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/stream.png",
+          "name": "Stream",
+          "url": "https://getstream.io/"
         }
       ]
     },
