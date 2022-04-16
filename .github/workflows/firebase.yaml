@@ -1,4 +1,4 @@
-name: Update Firestore data
+name: Update Firestore data and Firebase hosting
 
 on:
   push:
@@ -11,7 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '17'
       - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
         env:
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+      - run: npm run deploy
       - run: ./scripts/copy-data.main.kts data/database/*
