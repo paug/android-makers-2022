@@ -19,4 +19,6 @@ jobs:
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
       - run: npm ci
       - run: npm run deploy
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.SERVICE_ACCOUNT_JSON }}
       - run: ./scripts/copy-data.main.kts data/database/*
