@@ -20,5 +20,5 @@ jobs:
       - run: npm ci
       - run: npm run deploy
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+          GOOGLE_APPLICATION_CREDENTIALS: serviceAccount.json
       - run: ./scripts/copy-data.main.kts data/database/*
