@@ -17,5 +17,6 @@ jobs:
       - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
         env:
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+      - run: npm ci
       - run: npm run deploy
       - run: ./scripts/copy-data.main.kts data/database/*
