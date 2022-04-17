@@ -553,12 +553,12 @@
         ]
     },
     "JEA-0128": {
-        "title": "How we migrated the CI / CD of our Android app to GitHub Actions",
+        "title": "Petit guide de mise en place d'une CI pour Android avec Github Actions",
         "tags": [
             "Android Development"
         ],
-        "language": "English/French",
-        "description": "In any software development process, the CI/CD is a crucial piece that helps teams catch the problems early, improve the code quality, automate the release process, among other benefits.\n\nAt Innovorder, we used to work with a legacy CI/CD based on Google Cloud Build. It was hard to maintain mainly because no-one in the team really knew how it worked and because of a lack of good documentation, so we ended up deciding to build a new and more reliable CI/CD.\n\nIn this session, I’ll share the story of how we migrated to GitHub Actions. Outline challenges we faced and how we solved them. And finally show how we went even further, by improving on the previously existant CI in different ways, including :\n\n- improving the use of resources by canceling the workflows running on the previous commits when a new commit is pushed to a branch\n- display the results of the Unit Tests directly in the Workflow result page\n- add timeout to steps that can run forever because of a call to an external service\n- send a Slack notification with all the important information about the workflow run",
+        "language": "French",
+        "description": "Dans le processus de développement logiciel, la CI/CD est une pièce cruciale qui aide les équipes à repérer les problèmes le plus tôt possible, améliorer la qualité du code, automatiser les processus de release, entre autres avantages.\n\nDans cette présentation, je ferai un retour d’expérience sur la migration de la CI d'Innovorder vers Github Actions, les défis que nous avons rencontrés et les solutions que nous avons trouvées. Avec un pas à pas de l'implémentation des briques de base de la CI, puis quelques exemples d'améliorations qui peuvent être ajoutées, j'espère vous montrer qu'il peut être très facile de mettre en place une CI sans pour autant avoir de connaissances avancées de DevOps.",
         "complexity": "Beginner",
         "speakers": [
             "7db892d8db121e3c2b47441a73d08b125029431e"
