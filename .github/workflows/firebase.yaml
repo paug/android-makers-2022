@@ -1,0 +1,24 @@
+name: Update Firestore data and Firebase hosting
+
+on:
+  push:
+    branches:
+      - github-action
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '17'
+      - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
+        env:
+          SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+      - run: npm ci
+      - run: npm run deploy
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: serviceAccount.json
+      - run: ./scripts/copy-data.main.kts data/database/*

@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        script-name: [lint, test, build, types]
+        script-name: [build, types] # disable lint & test
 
     steps:
       - name: Checkout the repo
