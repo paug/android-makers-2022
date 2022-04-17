@@ -194,7 +194,7 @@
         "tags": [
             "Android Development"
         ],
-        "language": "English/French",
+        "language": "French",
         "description": "Une migration pas facile qu'est celle d'Android 12 ! Ce talk vous comptera toutes les subtilités qu'il faut connaître avant de migrer votre application vers Android 12.\n\nDu Manifest aux PendingIntent en passant par les nouvelles restrictions du côté du Bluetooth ou encore au niveau de la sécurité et de la vie privée. Android 12 apporte énormément de changements (et certains bien cachés !) pour les développeurs. Nous explorerons comment s'occuper de la migration vers cette nouvelle version d'Android et quelques tools qui peuvent nous faciliter la tâche.\n\nUne des migrations les plus laborieuses depuis Android 6 et l'introduction des permissions au runtime 😆 3, 2, 1 on replie !",
         "complexity": "Beginner",
         "speakers": [
@@ -219,7 +219,7 @@
         "tags": [
             "Android Development"
         ],
-        "language": "English/French",
+        "language": "English",
         "description": "MVVM, MVP, Clean Architecture, Baroque, Multitier, you hear those words at every conference, at work, or anywhere else, but maybe you don't really know what it is? Or you are not sure why you should you a certain type of Architecture instead of another?\n\nIn this talk, I want to give you all the tools to know about architecture and I want to show you an overview of the most commun type of architectures we are using in the mobile world.",
         "complexity": "Beginner",
         "speakers": [
@@ -449,7 +449,7 @@
         "tags": [
             "Android Development"
         ],
-        "language": "English/French",
+        "language": "English",
         "description": "At Cash App, mobile and server engineers collaborate on Protobuf and gRPC schemas to define APIs between their services. To improve our experience doing so, we built Wire. From a small in-house protobuf generation library, Wire has today matured into our favourite tool to manage and generate gRPC messages and services. Wire is backed by a versatile Gradle plugin and is used on our Android app, our iOS app, and our microservices at Cash App.\nThe talk will introduce Wire’s basic features before diving into:\n\n- What Proto 3 support brings to the table in terms of new types and JSON serialisation, and the difference between Wire and protoc,\n- How Wire handles options and provides comfortable APIs to consume them,\n- Details about Wire Gradle plugin internals, what steps are processed and how to configure them,\n- How Wire helps managing protobuf dependencies across microservices.\n\nThis presentation will provide simple entry points for people starting with Wire, and actionable improvements for experienced users alike.",
         "complexity": "Beginner",
         "speakers": [
