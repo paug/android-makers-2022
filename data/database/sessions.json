@@ -575,7 +575,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "The window manager is a strange beast. Only the tip of the iceberg is available as an API to developers, but behind the scene, it directs all the user interface. Let's get into a journey to understand what the 🦭 is going one under the (API) surface.",
+        "description": "The window manager is a strange beast. Only the tip of the iceberg is available as an API to developers, but behind the scene, it directs all the user interface. Let's get into a journey to understand what the 🦭 is going one under the (API) surface.\n\nYou will get a better understanding of the APIs available to you to control your application's window, how to adopt the latest API to support larger screen and foldable devices, and also some of the basics like insets handling and animations, splash screen, edge-to-edge rendering.",
         "complexity": "Intermediate",
         "speakers": [
             "7c3c8d4952ab519203050d818cb1f3d6193ec605",
