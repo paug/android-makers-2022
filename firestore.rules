@@ -240,5 +240,9 @@ service cloud.firestore {
     match /rooms/{id} {
       allow read;
     }
+    
+    match /wifi/{id} {
+      allow read;
+    }
   }
 }
