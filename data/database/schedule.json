@@ -31,6 +31,9 @@
           },
           {
             "items": []
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -47,26 +50,56 @@
       },
       {
         "startTime": "10:20",
-        "endTime": "11:05",
+        "endTime": "10:45",
         "sessions": [
           {
             "items": [
               "SFM-4681"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "IUO-6413"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "NZD-1739"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "CPQ-5361"
+            ],
+            "extend": 2
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "10:45",
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "OFH-0001"
             ]
           }
         ]
@@ -97,6 +130,11 @@
             "items": [
               "XDP-9037"
             ]
+          },
+          {
+            "items": [
+              "OFH-0002"
+            ]
           }
         ]
       },
@@ -116,6 +154,11 @@
           {
             "items": [
               "GUU-0892"
+            ]
+          },
+          {
+            "items": [
+              "OFH-0003"
             ]
           }
         ]
@@ -157,6 +200,11 @@
             "items": [
               "TEB-8393"
             ]
+          },
+          {
+            "items": [
+              "OFH-0004"
+            ]
           }
         ]
       },
@@ -176,6 +224,11 @@
           {
             "items": [
               "PXN-5831"
+            ]
+          },
+          {
+            "items": [
+              "OFH-0005"
             ]
           }
         ]
@@ -202,6 +255,11 @@
             "items": [
               "AHE-2868"
             ]
+          },
+          {
+            "items": [
+              "OFH-0006"
+            ]
           }
         ]
       },
@@ -223,6 +281,11 @@
           {
             "items": [
               "JEA-0128"
+            ]
+          },
+          {
+            "items": [
+              "OFH-0007"
             ]
           }
         ]
@@ -264,6 +327,11 @@
             "items": [
               "CQY-3449"
             ]
+          },
+          {
+            "items": [
+              "OFH-0008"
+            ]
           }
         ]
       },
@@ -283,6 +351,11 @@
           {
             "items": [
               "FTE-5493"
+            ]
+          },
+          {
+            "items": [
+              "OFH-0009"
             ]
           }
         ]
@@ -309,6 +382,9 @@
             "items": [
               "OWT-6626"
             ]
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -329,6 +405,9 @@
             "items": [
               "GUH-2562"
             ]
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -360,6 +439,10 @@
       {
         "title": "Room 2.04",
         "infos": "2nd floor"
+      },
+      {
+        "title": "Office Hours",
+        "infos": "1st floor"
       }
     ]
   },
@@ -380,21 +463,48 @@
       },
       {
         "startTime": "09:30",
-        "endTime": "10:15",
+        "endTime": "09:55",
         "sessions": [
           {
             "items": [
               "KDO-9985"
+            ],
+            "extend": 2
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "09:55",
+        "endTime": "10:15",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "OFH-0010"
             ]
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
-          },
-          {
-            "items": []
           }
         ]
       },
@@ -434,6 +544,9 @@
               "PBU-0425"
             ],
             "extend": 2
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -450,6 +563,9 @@
             "items": [
               "DID-9712"
             ]
+          },
+          {
+            "items": []
           },
           {
             "items": []
@@ -496,6 +612,9 @@
               "QLS-6916"
             ],
             "extend": 2
+          },
+          {
+            "items": []
           }
         ]
       },
@@ -516,30 +635,66 @@
           },
           {
             "items": []
+          },
+          {
+            "items": [
+              "OFH-0013"
+            ]
           }
         ]
       },
       {
         "startTime": "15:00",
-        "endTime": "15:45",
+        "endTime": "15:25",
         "sessions": [
           {
             "items": [
               "SKI-6755"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "BEH-7755"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": [
               "SGC-3820"
-            ]
+            ],
+            "extend": 2
           },
           {
             "items": []
+          },
+          {
+            "items": [
+              "OFH-0011"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "15:25",
+        "endTime": "15:45",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "OFH-0012"
+            ]
           }
         ]
       },
@@ -556,35 +711,17 @@
       },
       {
         "startTime": "16:10",
-        "endTime": "16:35",
+        "endTime": "16:55",
         "sessions": [
           {
             "items": [
               "EST-5335"
-            ],
-            "extend": 2
+            ]
           },
           {
             "items": [
               "DIA-1089"
-            ],
-            "extend": 2
-          },
-          {
-            "items": []
-          },
-          {
-            "items": [],
-            "extend": 2
-          }
-        ]
-      },
-      {
-        "startTime": "16:35",
-        "endTime": "16:55",
-        "sessions": [
-          {
-            "items": []
+            ]
           },
           {
             "items": []
@@ -614,6 +751,9 @@
           },
           {
             "items": []
+          },
+          {
+            "items": []
           }
         ]
       }
@@ -634,6 +774,10 @@
       {
         "title": "Room 2.04",
         "infos": "2nd floor"
+      },
+      {
+        "title": "Office Hours",
+        "infos": "1st floor"
       }
     ]
   }
