@@ -775,5 +775,17 @@
             "efd0a931724dbd49a6e5b9e6883cc57230a26149",
             "04c52b8f992c37bd782f5ccfc1723d4a4167ae38"
         ]
+    },
+    "OFH-0013": {
+        "title": "Office hours: Kotlin in practice",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come to chat with Sebastiano from Jetbrain about kotlin",
+        "complexity": "Beginner",
+        "speakers": [
+            "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
+        ]
     }
 }
