@@ -629,5 +629,151 @@
         "speakers": [
             "c9a8b648da77430c58904cc76bd0c95cc6d64624"
         ]
+    },
+    "OFH-0001": {
+        "title": "Office hours: Architecture Design with Koin",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Come discuss DI and architecture and more with Arnaud, koin creator and a Kotlin GDE",
+        "complexity": "Beginner",
+        "speakers": [
+            "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
+        ]
+    },
+    "OFH-0002": {
+        "title": "Office hours: Develop your CI tools",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come discuss with Xavier about CI",
+        "complexity": "Beginner",
+        "speakers": [
+            "4be0e0e99b3e04c7154d73ee45444b80d459f466"
+        ]
+    },
+    "OFH-0003": {
+        "title": "Office hours: Kotlin and compose multiplateform",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come discuss with Carlos an android GDE about kotlin multiplateform and compose",
+        "complexity": "Beginner",
+        "speakers": [
+            "aaec18080e28068c1d725fb7747a77a26df8dcd8"
+        ]
+    },
+    "OFH-0004": {
+        "title": "Office hours: From Dagger to Dagger-hilt",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come discuss with Robin about dagger and dagger hilt",
+        "complexity": "Beginner",
+        "speakers": [
+            "2feb72725774e2b7ae864cafa8d2b6ac6c0cac32"
+        ]
+    },
+    "OFH-0005": {
+        "title": "Office hours: Android library development",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Join Jeroen an android GDE to chat about android library development",
+        "complexity": "Beginner",
+        "speakers": [
+            "1e8ee9b62ccbf4142710dbe7fde7bac48d1b5c96"
+        ]
+    },
+    "OFH-0006": {
+        "title": "Office hours: Ktor",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Join Renaud to talk about their experience with ktor from Innovorder",
+        "complexity": "Beginner",
+        "speakers": [
+            "f1ccb89c189cf8565f3b9c96ea718f44ef227172"
+        ]
+    },
+    "OFH-0007": {
+        "title": "Office hours Scoped storage with Modern Storage",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Yacine is an Android developer relations engineer at Google, join him to discuss about scoped storage",
+        "complexity": "Beginner",
+        "speakers": [
+            "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae"
+        ]
+    },
+    "OFH-0008": {
+        "title": "Office hours: Window Manager",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Join Vadim and Pablo who both are Software Engineer at Google to chat about the window manager.",
+        "complexity": "Beginner",
+        "speakers": [
+            "7c3c8d4952ab519203050d818cb1f3d6193ec605",
+            "65a10ef193706d1eac513be7fd840171227470ce"
+        ]
+    },
+    "OFH-0009": {
+        "title": "Office hours: migrating to android 12",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Join Julien an Android GDE to talk about migrating to android 12",
+        "complexity": "Beginner",
+        "speakers": [
+            "b59333a429b238f81f8c0a6377da8c8f052f917f"
+        ]
+    },
+    "OFH-0010": {
+        "title": "Office hours: Coroutines",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come to chat with Louis a Kotlin GDE and talk about coroutines",
+        "complexity": "Beginner",
+        "speakers": [
+            "cb2e16407c778831b4f990bfbd556135c507867f"
+        ]
+    },
+    "OFH-0011": {
+        "title": "Office hours: Flutter",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "French",
+        "description": "Join Edouard to chat about flutter",
+        "complexity": "Beginner",
+        "speakers": [
+            "b514cfad0717c15c7614faa45290699332821266"
+        ]
+    },
+    "OFH-0012": {
+        "title": "Office hours: Apollo Graphql",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "Come to chat with Benoit and Martin from Apollo about Graphql",
+        "complexity": "Beginner",
+        "speakers": [
+            "efd0a931724dbd49a6e5b9e6883cc57230a26149",
+            "04c52b8f992c37bd782f5ccfc1723d4a4167ae38"
+        ]
     }
 }
