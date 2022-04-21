@@ -1,0 +1,38 @@
+{
+    "deezer": {
+      "backgroundColor": "#C16C05",
+      "brief": "With over 90 million songs and a presence in 180 countries...",
+      "content": "With over 90 million songs and a presence in 180 countries, Deezer is the music streaming service that adapts to your needs, tastes and musical mood. We also offer a large catalogue of podcasts, audiobooks and radio channels, as well as Deezer Originals exclusives. </br></br>At Deezer, we combine top curated content from our editors with the best music algorithms to help fans discover the songs, artists and albums they love. All our users have access to music, unique features (e.g. Flow, SongCatcher) and personalised recommendations on mobile and web. Paying subscribers can enjoy unlimited, ad-free music, podcasts and more on all devices, even offline.</br></br>The Deezer teams are composed of passionate people who work together to deliver the best experience on multiple platforms. On Android, 20 engineers are continuously developing and improving our apps. We are keen to share our learnings and show you some of the work we do behind the scenes, so feel free to stop by and attend our talk!</br></br>In the meantime, you can visit our website https://www.deezer.com/ and check our latest news.",
+      "image": "/images/logos/deezer.png",
+      "published": "2022-03-29",
+      "source": "/data/posts/deezer.md",
+      "title": "About Deezer"
+    },
+    "contentsquare": {
+      "backgroundColor": "#FFFFFF",
+      "brief": "Contentsquare empowers brands to build better digital experiences...",
+      "content": "Contentsquare empowers brands to build better digital experiences. Our experience analytics platform tracks and visualizes billions of digital behaviors, delivering intelligent recommendations that everyone can use to grow revenue, increase loyalty and fuel innovation. </br></br>Founded in Paris in 2012, Contentsquare has since opened offices in New York, London, San Francisco, Munich, Tel Aviv, Singapore and Tokyo. Today, it helps more than 750 enterprises in 26 countries deliver better digital experiences for their customers.</br></br>Contentsquare has grown exponentially in the past few years, acquiring four companies since 2019 — including its nearest competitor, Clicktale. It has raised $310 million in funding in the last five years, closing a Series D round for $190M at the height of the Covid crisis. In 2020 it launched its Experience Partner Ecosystem and completed +75 new technology integrations. With the acquisition of accessibility software AdaptMyWeb in 2020, and subsequent launch of the Contentsquare Foundation, the company announced an expanded mission to promote digital accessibility in the areas of education, technology and corporate social responsibility.</br></br>Check out our tech blog on https://engineering.contentsquare.com/",
+      "image": "/images/logos/contentsquare.png",
+      "published": "2022-04-12",
+      "source": "/data/posts/contentsquare.md",
+      "title": "About Contentsquare"
+    },
+    "trainline": {
+      "backgroundColor": "#FFFFFF",
+      "brief": "We have created a tech organisation that is capable of innovating for our customers...",
+      "content": "We have created a tech organisation that is capable of innovating for our customers. We organise around strategical themes and architectural domains and empower our Tech teams to own more than 300 production releases per week.Our established Tech team of experts build scalable solutions that make a world-class customer experience for our app and website. We’re a data-driven business that’s relentless in analysing how we can drive further value for our customers.We take the complexity of rail and bring it into one seamless experience for our users through smart tech, making rail and coach travel easier. We host more than 90m visits across our platforms each month – selling tickets on behalf of 270 rail and coach companies across 45 countries to customers based in over 175 countries.We’ve focused on building a culture of innovation throughout our squads while ensuring we have the cutting-edge technology at the back end to power it.</br></br>Take a look at our team blog: http://engineering.thetrainline.com/</br></br>Check how we integrated Google Maps app in our app on Android devices: https://www.phocuswire.com/trainline-integrates-into-google-maps-for-rail-ticketing",
+      "image": "/images/logos/trainline.png",
+      "published": "2022-04-13",
+      "source": "/data/posts/trainline.md",
+      "title": "About Trainline"
+    },
+    "office-hours": {
+      "backgroundColor": "#FFFFFF",
+      "brief": "AndroidMakers 2022 will host some Office hours...",
+      "content": "During this year event, we are going to have some Office hours lead by experts on specific topics. You are all invited to join these office hours to ask them any question about their area of expertise.</br></br>What are the office hours?</br></br>The office hours will gather some speakers to answer your questions on specific topics.<br/>Each session will last between 20 & 40 minutes and will be lead by two speakers within their field of expertise. Everyone can join, talk and ask them about specific problems they encountered.</br></br>What do I need?</br></br>You need to have your questions ready. You can bring drawings, wireframes, or even your laptop.<br/>If too many people want to talk to the expert, please limit the number of your questions.</br></br>When are they organized?</br></br>On Monday</br>Arnaud Giuliani 10h45 -> 11h05</br>Xavier Gouchet 11h20 -> 11h45</br>Carlos Mota 11h45 -> 12h05</br>Robin Caroff 14h25 -> 14H45</br>Jeroen Mols 14h45 ->15h</br>Renaud Mathieu 15h -> 15H25</br>Yacine Rezgui 15h25 -> 15h45</br>Vadim Caen, Pablo Gamito 16h20 -> 16h45</br>Julien Salvi 16h45 -> 17h05</br></br>On Tuesday</br>Louis Cad 9h55 -> 10h15</br>Simona Stojanovic, Alejandra Stamato, Florina Muntenescu, Jolanda Verhoef 10h40 -> 12h</br>Sebastiano Poggi 14h25 -> 14h45</br>Edouard Marquez  15h -> 15h25</br>Martin Bonnin, Benoit Lubek 15h25 -> 15h45</br></br>You can go and meet them whenever you want during their sessions.",
+      "image": "/images/backgrounds/IMG_2249.jpeg",
+      "published": "2022-04-21",
+      "source": "/data/posts/office-hours.md",
+      "title": "AndroidMakers 2022 Will Host Some Office Hours"
+    }
+  }
