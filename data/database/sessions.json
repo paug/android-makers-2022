@@ -393,7 +393,7 @@
             "Android Development"
         ],
         "language": "French",
-        "description": "Le multi-plateforme n'est pas nouveau et les solutions sont légion. Aujourd'hui, la bataille a lieu essentiellement entre React Native et Flutter qui ont chacun des avantages et des inconvénients.\n\nMicrosoft qui a bien Xamarin, a bien compris qu'elle était sur le déclin. En coulisses, ils travaillent sur .NET MAUI leur tout nouveau framework multiplateforme permettant de gérer à la fois Android/iOS et Windows/macOS. Alors que .NET MAUI ne devrait sortir que dans quelques mois, nous nous intéresserons dans ce talk à ce qu'est vraiment cette technologie et ce qu'elle permet de faire.",
+        "description": "Le multi-plateforme n'est pas nouveau et les solutions sont légion. Aujourd'hui, la bataille a lieu essentiellement entre React Native et Flutter qui ont chacun des avantages et des inconvénients.\n\nMicrosoft qui a certes Xamarin, a bien compris que sa solution était sur le déclin. En coulisses, ils travaillent sur .NET MAUI leur tout nouveau framework multiplateforme permettant de gérer à la fois Android/iOS et Windows/macOS. Alors que .NET MAUI est disponible en RC1 depuis quelques jours, nous nous intéresserons dans ce talk à ce qu'est vraiment cette technologie et ce qu'elle permet de faire.",
         "complexity": "Beginner",
         "speakers": [
             "b514cfad0717c15c7614faa45290699332821266"
