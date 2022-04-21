@@ -18,5 +18,10 @@
     "name": "Room 2.04",
     "capacity": 380000,
     "level": "2nd floor"
+  },
+  "4": {
+    "name": "Office Hours",
+    "capacity": 380000,
+    "level": "1st floor"
   }
 }

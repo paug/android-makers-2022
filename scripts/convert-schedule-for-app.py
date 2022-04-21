@@ -26,7 +26,7 @@ input_schedule_raw = os.path.join(DATABASE_PATH, "schedule.json")
 output_schedule_app = os.path.join(DATABASE_PATH, "schedule-app.json")
 
 """ Part that are needed to be updated each year, according to the days and the rooms. """
-room_ids = ["Moebius", "Blin", "2.02", "2.04"]
+room_ids = ["Moebius", "Blin", "2.02", "2.04", "OfficeHours"]
 days = ["2022-04-25", "2022-04-26"]
 """ End of the year editable part """
 

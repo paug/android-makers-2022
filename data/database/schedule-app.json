@@ -24,6 +24,12 @@
         "infos": "2nd floor",
         "roomId": "2.04",
         "roomName": "Room 2.04"
+      },
+      {
+        "capacity": 380000,
+        "infos": "1st floor",
+        "roomId": "OfficeHours",
+        "roomName": "Office Hours"
       }
     ]
   },
@@ -72,6 +78,12 @@
         "startDate": "2022-04-25T10:20:00+02:00"
       },
       {
+        "endDate": "2022-04-25T11:05:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0001",
+        "startDate": "2022-04-25T10:45:00+02:00"
+      },
+      {
         "endDate": "2022-04-25T12:05:00+02:00",
         "roomId": "Moebius",
         "sessionId": "RVJ-5513",
@@ -96,9 +108,21 @@
         "startDate": "2022-04-25T11:20:00+02:00"
       },
       {
+        "endDate": "2022-04-25T11:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0002",
+        "startDate": "2022-04-25T11:20:00+02:00"
+      },
+      {
         "endDate": "2022-04-25T12:05:00+02:00",
         "roomId": "2.04",
         "sessionId": "GUU-0892",
+        "startDate": "2022-04-25T11:45:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T12:05:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0003",
         "startDate": "2022-04-25T11:45:00+02:00"
       },
       {
@@ -126,10 +150,28 @@
         "startDate": "2022-04-25T14:00:00+02:00"
       },
       {
-        "endDate": "2022-04-25T14:45:00+02:00",
+        "endDate": "2022-04-25T14:25:00+02:00",
         "roomId": "2.04",
         "sessionId": "TEB-8393",
         "startDate": "2022-04-25T14:00:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T14:25:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0004",
+        "startDate": "2022-04-25T14:00:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T14:45:00+02:00",
+        "roomId": "2.04",
+        "sessionId": "PXN-5831",
+        "startDate": "2022-04-25T14:25:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T14:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0005",
+        "startDate": "2022-04-25T14:25:00+02:00"
       },
       {
         "endDate": "2022-04-25T15:45:00+02:00",
@@ -150,6 +192,12 @@
         "startDate": "2022-04-25T15:00:00+02:00"
       },
       {
+        "endDate": "2022-04-25T15:25:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0006",
+        "startDate": "2022-04-25T15:00:00+02:00"
+      },
+      {
         "endDate": "2022-04-25T15:45:00+02:00",
         "roomId": "Blin",
         "sessionId": "GWS-5570",
@@ -159,6 +207,12 @@
         "endDate": "2022-04-25T15:45:00+02:00",
         "roomId": "2.04",
         "sessionId": "JEA-0128",
+        "startDate": "2022-04-25T15:25:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T15:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0007",
         "startDate": "2022-04-25T15:25:00+02:00"
       },
       {
@@ -192,9 +246,21 @@
         "startDate": "2022-04-25T16:20:00+02:00"
       },
       {
+        "endDate": "2022-04-25T16:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0008",
+        "startDate": "2022-04-25T16:20:00+02:00"
+      },
+      {
         "endDate": "2022-04-25T17:05:00+02:00",
         "roomId": "2.04",
         "sessionId": "FTE-5493",
+        "startDate": "2022-04-25T16:45:00+02:00"
+      },
+      {
+        "endDate": "2022-04-25T17:05:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0009",
         "startDate": "2022-04-25T16:45:00+02:00"
       },
       {
@@ -241,9 +307,9 @@
       },
       {
         "endDate": "2022-04-26T10:15:00+02:00",
-        "roomId": "Blin",
-        "sessionId": "DID-9712",
-        "startDate": "2022-04-26T09:30:00+02:00"
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0010",
+        "startDate": "2022-04-26T09:55:00+02:00"
       },
       {
         "endDate": "2022-04-26T10:40:00+02:00",
@@ -279,6 +345,12 @@
         "endDate": "2022-04-26T12:00:00+02:00",
         "roomId": "Moebius",
         "sessionId": "JAD-6398",
+        "startDate": "2022-04-26T11:15:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T12:00:00+02:00",
+        "roomId": "Blin",
+        "sessionId": "DID-9712",
         "startDate": "2022-04-26T11:15:00+02:00"
       },
       {
@@ -318,6 +390,12 @@
         "startDate": "2022-04-26T14:25:00+02:00"
       },
       {
+        "endDate": "2022-04-26T14:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0013",
+        "startDate": "2022-04-26T14:25:00+02:00"
+      },
+      {
         "endDate": "2022-04-26T15:45:00+02:00",
         "roomId": "Moebius",
         "sessionId": "SKI-6755",
@@ -336,6 +414,18 @@
         "startDate": "2022-04-26T15:00:00+02:00"
       },
       {
+        "endDate": "2022-04-26T15:25:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0011",
+        "startDate": "2022-04-26T15:00:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T15:45:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0012",
+        "startDate": "2022-04-26T15:25:00+02:00"
+      },
+      {
         "endDate": "2022-04-26T16:10:00+02:00",
         "roomId": "all",
         "sessionId": "break",
@@ -351,12 +441,6 @@
         "endDate": "2022-04-26T16:55:00+02:00",
         "roomId": "Blin",
         "sessionId": "DIA-1089",
-        "startDate": "2022-04-26T16:10:00+02:00"
-      },
-      {
-        "endDate": "2022-04-26T16:35:00+02:00",
-        "roomId": "2.02",
-        "sessionId": "PXN-5831",
         "startDate": "2022-04-26T16:10:00+02:00"
       },
       {
