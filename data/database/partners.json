@@ -115,6 +115,36 @@
     },
     "5": {
         "order": 5,
+        "title": "Makers",
+        "items-firestoreCollection": {
+            "000": {
+                "order": 0,
+                "logoUrl": "../images/logos/mwm.png",
+                "name": "MWM",
+                "url": "https://mwm.io/"
+            }
+        }
+    },
+    "6": {
+        "order": 6,
+        "title": "Special Thanks",
+        "items-firestoreCollection": {
+            "000": {
+                "order": 0,
+                "logoUrl": "../images/logos/esgi.png",
+                "name": "ESGI",
+                "url": "hhttps://www.esgi.fr/"
+            },
+            "001": {
+                "order": 1,
+                "logoUrl": "../images/logos/epitech.jpeg",
+                "name": "Epitech",
+                "url": "https://www.epitech.eu/"
+            }
+        }
+    },
+    "7": {
+        "order": 7,
         "title": "Template Creator",
         "items-firestoreCollection": {
             "000": {
