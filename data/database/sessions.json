@@ -786,5 +786,20 @@
         "speakers": [
             "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
         ]
+    },
+    "OFH-0014": {
+        "title": "Office hours: Compose",
+        "tags": [
+            "Android Development"
+        ],
+        "language": "English",
+        "description": "To be determined.",
+        "complexity": "Beginner",
+        "speakers": [
+            "796eb17edbb8dcd0f24ffd465235ab05beb57018",
+            "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2",
+            "b0a55542e9138934c5395898531fe9394525b04e",
+            "d0233195e347b6929d84b4f2b3b9cf2084503bff"
+        ]
     }
 }
