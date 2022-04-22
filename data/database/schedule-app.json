@@ -343,6 +343,12 @@
       },
       {
         "endDate": "2022-04-26T12:00:00+02:00",
+        "roomId": "OfficeHours",
+        "sessionId": "OFH-0014",
+        "startDate": "2022-04-26T10:40:00+02:00"
+      },
+      {
+        "endDate": "2022-04-26T12:00:00+02:00",
         "roomId": "Moebius",
         "sessionId": "JAD-6398",
         "startDate": "2022-04-26T11:15:00+02:00"
