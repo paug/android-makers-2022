@@ -793,11 +793,12 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Join Alejandra, Florina and Simona from Google to chat about Compose.",
+        "description": "Join Alejandra, Florina, Jolanda and Simona from Google to chat about Compose.",
         "complexity": "Beginner",
         "speakers": [
             "796eb17edbb8dcd0f24ffd465235ab05beb57018",
             "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2",
+            "b0a55542e9138934c5395898531fe9394525b04e",
             "d0233195e347b6929d84b4f2b3b9cf2084503bff"
         ]
     }
