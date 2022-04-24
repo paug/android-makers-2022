@@ -554,7 +554,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "11c3eef1aefb87fb11d7beee2a2e4e891604b3e2"
-        ]
+        ],
+        "presentation": "https://docs.google.com/presentation/d/1oNCVqdgPnbxmvvlEXUB1WJolYssSUbYSL3JA-GqZPo4/preview#slide=id.g35f391192_00"
     },
     "JEA-0128": {
         "title": "Petit guide de mise en place d'une CI pour Android avec Github Actions",
