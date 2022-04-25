@@ -739,11 +739,34 @@
       },
       {
         "startTime": "17:10",
+        "endTime": "17:40",
+        "sessions": [
+          {
+            "items": [
+              "comedy"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "17:40",
         "endTime": "18:00",
         "sessions": [
           {
             "items": [
-              "surprise"
+              "closing"
             ]
           },
           {

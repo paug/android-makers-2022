@@ -51,6 +51,19 @@
           "Service"
         ]
     },
+    "comedy": {
+        "complexity": "Beginner",
+        "speakers": [
+          "379c162aac12eca2deca690287b54ad270cc2e40",
+          "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
+        ],
+        "description": "",
+        "language": "English",
+        "title": "Comedy talk",
+        "tags": [
+          "Android Development"
+        ]
+      },
     "closing": {
         "description": "Thank you and see you next year! 👋",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
