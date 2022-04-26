@@ -478,7 +478,7 @@
         "tags": [
             "Android Development"
         ],
-        "language": "French",
+        "language": "English",
         "description": "Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers, well known for its ease of use. In this session, I propose to see together how we can structure our components, for the following topics:\n\n- Classical Components in MVP, MVVM\n- Dealing with Scopes\n- Jetpack Navigation\n- Jetpack Compose\n- Integrating with Multi Platform\n\nAnd bonus, we will talk about incoming new features .",
         "complexity": "Intermediate",
         "speakers": [
