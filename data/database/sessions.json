@@ -200,7 +200,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Using Kotlin coroutines & flows, store data asynchronously, in a thread safe and a non blocking way. Curious? DataStore is the new Jetpack data storage library that makes you forget all about SharedPreferences, and allows you to store small amounts of data safely & consistently. In this talk, learn about the two different implementations the library comes with - Proto DataStore & Preference DataStore, differences between the two, use cases of when to use what & the benefits.You will walk away with more confidence to use the modern way of storing data.",
+        "description": "Using Kotlin coroutines & flows, store data asynchronously, in a thread safe and a non blocking way. Curious? DataStore is the new Jetpack data storage library that makes you forget all about SharedPreferences, and allows you to store small amounts of data safely & consistently. In this talk, learn about the two different implementations the library comes with - Proto DataStore & Preference DataStore, differences between the two, use cases of when to use what & the benefits.You will walk away with more confidence to use the modern way of storing data.\n\n*** this talk will be given remotely ***",
         "complexity": "Beginner",
         "speakers": [
             "fe6c3c11932ad7f6909cb219770c7b331b2d80ed"
