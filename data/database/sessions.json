@@ -129,7 +129,8 @@
         "complexity": "Beginner",
         "speakers": [
             "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
-        ]
+        ],
+        "presentation": "https://go.sebastiano.dev/ide-talk-2022"
     },
     "VFF-1339": {
         "title": "Invest in Real State: A workshop for State in Compose",
@@ -137,7 +138,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "All applications handle state: whether it is your list of bookmarked items or the products in your shopping cart, your application needs to be able to request information, process it, and display the UI according to the current state. It should also handle updates of this state, which can happen from different sources. With Compose, handling state doesn’t have to be difficult! In this workshop you’ll learn hands-on how the unidirectional data flow works, how to manage state and work with APIs like remember, rememberSaveable and mutableStateOf to build rich and interactive Compose applications.",
+        "description": "All applications handle state: whether it is your list of bookmarked items or the products in your shopping cart, your application needs to be able to request information, process it, and display the UI according to the current state. It should also handle updates of this state, which can happen from different sources. With Compose, handling state doesn’t have to be difficult! In this workshop you’ll learn hands-on how the unidirectional data flow works, how to manage state and work with APIs like remember, rememberSaveable and mutableStateOf to build rich and interactive Compose applications.\n\n***Codelab link: https://d.android.com/codelabs/jetpack-compose-state***",
         "complexity": "Intermediate",
         "speakers": [
             "796eb17edbb8dcd0f24ffd465235ab05beb57018",
@@ -168,7 +169,8 @@
         "speakers": [
             "2a2a587770ac71e14bdc82a6115575632f3401e0",
             "8fa3cb19406c7ae83ce2695ce8b4dfa75648d074"
-        ]
+        ],
+        "presentation": "https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/present?slide=id.p"
     },
     "LYS-7181": {
         "title": "A talk about talks",
@@ -180,7 +182,8 @@
         "complexity": "Beginner",
         "speakers": [
             "9c664410ea429bd31e4103fb1eb6e2bbe7b7f34f"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/codingchick/a-talk-about-talks-androidmarkerfr"
     },
     "GUH-2562": {
         "title": "Caching your data Graph - Offline & Reactive apps using Apollo Kotlin",
@@ -193,7 +196,8 @@
         "speakers": [
             "efd0a931724dbd49a6e5b9e6883cc57230a26149",
             "04c52b8f992c37bd782f5ccfc1723d4a4167ae38"
-        ]
+        ],
+        "presentation": "https://docs.google.com/presentation/d/e/2PACX-1vRWuW_L7pVLVDdvbZVaIBx70ldplKDKlEwJsyr4R8vd2g83CR7UrmVo4BRAzII_15RJZWvvWLX-Mu9e/pub?start=false&loop=false&delayms=3000"
     },
     "RYM-4193": {
         "title": "Jetpack DataStore - protocol buffers storage solution",
@@ -205,7 +209,8 @@
         "complexity": "Beginner",
         "speakers": [
             "fe6c3c11932ad7f6909cb219770c7b331b2d80ed"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/djain2405/jetpack-datastore"
     },
     "CPQ-5361": {
         "title": "Migrer vers Android 12: plus compliqué que de replier une tente 2s",
@@ -217,7 +222,8 @@
         "complexity": "Beginner",
         "speakers": [
             "b59333a429b238f81f8c0a6377da8c8f052f917f"
-        ]
+        ],
+        "presentation": "https://bit.ly/39eFJ77"
     },
     "RZH-5525": {
         "title": "To Smartphones and Beyond: Screens Everywhere",
@@ -242,7 +248,8 @@
         "complexity": "Beginner",
         "speakers": [
             "ab12cba820c3cdd5f9ac0dd86acc8be4360308bd"
-        ]
+        ],
+        "presentation": "https://docs.google.com/presentation/d/1Jxhe7FuJIBVBShKTDGulSl68LYiTruSP_gp7sVUtvr4/present?slide=id.p9"
     },
     "SFM-4681": {
         "title": "The definitive guide to Android library development",
@@ -254,7 +261,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "1e8ee9b62ccbf4142710dbe7fde7bac48d1b5c96"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/jeroenmols/the-definitive-guide-to-android-library-development"
     },
     "FTE-5493": {
         "title": "The untold guide for making PoCs",
@@ -266,7 +274,8 @@
         "complexity": "Beginner",
         "speakers": [
             "871b279eaaf5863eb98307a1254815fadf6ac8b8"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/oussamahaff/the-untold-guide-for-making-pocs"
     },
     "GUU-0892": {
         "title": "How to get satisfaction from ungrateful work: A journey into updating Kotlin",
@@ -278,7 +287,8 @@
         "complexity": "Beginner",
         "speakers": [
             "7efc198c67dc2f4c71df042e3a7e7d16c601c976"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/syrinet/how-to-get-satisfaction-from-ungrateful-work-a-journey-into-updating-kotlin"
     },
     "OUC-8969": {
         "title": "Practical Advanced Kotlin in Practice",
@@ -286,11 +296,12 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Getting started with Kotlin is as easy as saying “I want null safety” or \"I hate boilerplate\", sure — but that’s only scratching the surface of the brave new world that adopting Kotlin opened up for Java and Android developers.\n\nIn this workshop we’ll look at a number of less known language features and tips to make the most of the Kotlin Programming Language™ in our day-to-day work. We’ll touch on several topics, including property delegates, coroutines and flows, callbacks vs function references, sealed classes, member and extension functions, default parameters, typealiases, data classes and destructuring declarations.\n\nFor each of them, we’ll go over a series of dos and don’ts and best practices making sure you get the most out of Kotlin, without falling in the \"shiny new thing\" pitfalls.\n\nNote for attendees: Make sure you have a laptop computer with an up-to-date version of IntelliJ IDEA or Android Studio, with an up-to-date Kotlin plugin, and ideally the latest version of Kotlin and Gradle already in your local caches. We all know how conference Wi-Fi is :)",
+        "description": "Getting started with Kotlin is as easy as saying “I want null safety” or \"I hate boilerplate\", sure — but that’s only scratching the surface of the brave new world that adopting Kotlin opened up for Java and Android developers.\n\nIn this workshop we’ll look at a number of less known language features and tips to make the most of the Kotlin Programming Language™ in our day-to-day work. We’ll touch on several topics, including property delegates, coroutines and flows, callbacks vs function references, sealed classes, member and extension functions, default parameters, typealiases, data classes and destructuring declarations.\n\nFor each of them, we’ll go over a series of dos and don’ts and best practices making sure you get the most out of Kotlin, without falling in the \"shiny new thing\" pitfalls.\n\nNote for attendees: Make sure you have a laptop computer with an up-to-date version of IntelliJ IDEA or Android Studio, with an up-to-date Kotlin plugin, and ideally the latest version of Kotlin and Gradle already in your local caches. We all know how conference Wi-Fi is :)\n\n***Repository link: http://bit.ly/advanced-kotlin-workshop***",
         "complexity": "Intermediate",
         "speakers": [
             "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/rock3r/practical-advanced-kotlin-in-practice-01b7a122-919d-492b-bc41-d68f29bb52a2"
     },
     "XEC-3216": {
         "title": "The Future of Design is Still Personal: Reaching Toward True Adaptation",
@@ -314,7 +325,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "81475c5c7df6a5dbd02305f38a07737bb040ff47"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/zacsweers/improve-build-times-in-less-time"
     },
     "ZKC-6000": {
         "title": "Where and how to run UI tests?",
@@ -326,7 +338,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "3dc83a34a4378294fbabe71ace26dfe955a51b16"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-lisbon-and-android-makers-paris"
     },
     "PKX-2607": {
         "title": "Becoming a mentor, why and how?",
@@ -338,7 +351,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "fdec3e91e4892c5b08988aa3f83443e366ed3a1c"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/florianmski/becoming-a-mentor-why-and-how"
     },
     "YRV-5644": {
         "title": "Property based testing in practice",
@@ -346,11 +360,12 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "On paper, everyone agrees that tests are important. And yet, more often than not, tests are neglected. In the rare case where we take the time to write them, more often than not it’s considered a cumbersome task, and given less attention than the \"real code\". This leads to a lot of code smell being written in tests, one of which is using hardcoded values.\n\nTests are often as important, if not more so, as the code that will be published on the Play Store. This workshop will start with describing a productive mindset when writing tests, followed by an in-depth presentation of what Property based testing and Fuzzy testing are, with hands-on exercises to let attendees understand how to apply this concept to any existing Android codebase.",
+        "description": "On paper, everyone agrees that tests are important. And yet, more often than not, tests are neglected. In the rare case where we take the time to write them, more often than not it’s considered a cumbersome task, and given less attention than the \"real code\". This leads to a lot of code smell being written in tests, one of which is using hardcoded values.\n\nTests are often as important, if not more so, as the code that will be published on the Play Store. This workshop will start with describing a productive mindset when writing tests, followed by an in-depth presentation of what Property based testing and Fuzzy testing are, with hands-on exercises to let attendees understand how to apply this concept to any existing Android codebase.\n\n***Repository link: https://github.com/xgouchet/PBTIP***",
         "complexity": "Intermediate",
         "speakers": [
             "4be0e0e99b3e04c7154d73ee45444b80d459f466"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/xgouchet/property-based-testing-in-practice"
     },
     "NZD-1739": {
         "title": "Inside the .git folder - Explore the mysterious depths...",
@@ -386,7 +401,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "4be0e0e99b3e04c7154d73ee45444b80d459f466"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/xgouchet/develop-your-ci-tools"
     },
     "OWT-6626": {
         "title": "Live-coding a web server with Ktor",
@@ -410,7 +426,8 @@
         "complexity": "Beginner",
         "speakers": [
             "b514cfad0717c15c7614faa45290699332821266"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/g123k/quest-ce-que-net-maui-android-makers-2022"
     },
     "SKI-6755": {
         "title": "Implement your own design system with Jetpack Compose",
@@ -435,7 +452,8 @@
         "speakers": [
             "7bac67d7d63904678bd159d5cf29aa842fa30719",
             "502ccdc3af4586ba5aeca6e480c02d43b372a3aa"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/mwm/win-the-hearts-of-chrome-os-users-how-to-adapt-your-android-app"
     },
     "BEH-7755": {
         "title": "Android Benchmarking and other stories",
@@ -460,7 +478,8 @@
         "complexity": "Beginner",
         "speakers": [
             "b4c364ab6ed674a9aacc0b2ec0524ac1cf097578"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/thierrylee/exit-les-.scripts-on-se-cree-un-plugin-android-studio"
     },
     "NKV-0419": {
         "title": "Managing gRPC with Wire",
@@ -472,7 +491,8 @@
         "complexity": "Beginner",
         "speakers": [
             "786f4ff40c2d8aeef85a8dc997006cae5a4f9dc3"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/oldergod/managing-grpc-with-wire"
     },
     "DID-9712": {
         "title": "Android Architecture Design with Koin",
@@ -484,7 +504,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
-        ]
+        ],
+        "presentation": "https://blog.kotzilla.io/android-architecture-design-with-koin-conference-support/"
     },
     "ADD-2425": {
         "title": "Untangling Coroutine Testing",
@@ -496,7 +517,8 @@
         "complexity": "Expert",
         "speakers": [
             "5498b37176004d47f01ecb6d61bdead82ff63d9b"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/zsmb/untangling-coroutine-testing-android-makers-2022"
     },
     "IDH-6371": {
         "title": "Rex - From Dagger to Dagger Hilt",
@@ -508,7 +530,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "2feb72725774e2b7ae864cafa8d2b6ac6c0cac32"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/robincaroff/from-dagger-to-dagger-hilt"
     },
     "QLS-6916": {
         "title": "Add a Flutter module to an existing app",
@@ -532,7 +555,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "aaec18080e28068c1d725fb7747a77a26df8dcd8"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/cmota/the-adventure-of-kotlin-and-compose-through-the-multiplatform-world"
     },
     "JWZ-4774": {
         "title": "Life is too short to develop only for Android - A journey to Server-driven UI",
@@ -544,7 +568,8 @@
         "complexity": "Beginner",
         "speakers": [
             "8cf6953f3044bbd7a00c1da22f5df6b54be26b6f"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/zhenleiji/life-is-too-short-to-develop-only-for-android-a-journey-to-server-driven-ui"
     },
     "DII-9612": {
         "title": "Comment mutualiser du code à l’aide de bibliothèques internes",
@@ -556,7 +581,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "675ce05144893df92af77c3fb33b55065fc15911"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/jbvincey/sharing-code-among-multiple-projects-the-case-of-private-libraries"
     },
     "SGC-3820": {
         "title": "Retour d'expérience sur React Native dans Pl@ntNet",
@@ -594,7 +620,8 @@
         "speakers": [
             "7c3c8d4952ab519203050d818cb1f3d6193ec605",
             "65a10ef193706d1eac513be7fd840171227470ce"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/vcaen/a-dive-into-the-android-window-manager"
     },
     "TEB-8393": {
         "title": "Simplifying Scoped Storage with ModernStorage",
@@ -618,7 +645,8 @@
         "complexity": "Beginner",
         "speakers": [
             "1618306a9218b5a69ca5a1fa17b1a7ee0ffa7d95"
-        ]
+        ],
+      "presentation": " https://www.slideshare.net/AnnaBtki/how-do-you-compare-to-others-in-mobile-devops-performance-productivity-and-maturity"
     },
     "GWS-5570": {
         "title": "My coroutines patterns and habits, 3 years later",
@@ -630,7 +658,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "cb2e16407c778831b4f990bfbd556135c507867f"
-        ]
+        ],
+        "presentation": "https://androidmakers2022.louiscad.com"
     },
     "YLE-5245": {
         "title": "Les fuites mémoire sous Android : retour d'expérience et méthodologie",
@@ -642,7 +671,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "c9a8b648da77430c58904cc76bd0c95cc6d64624"
-        ]
+        ],
+        "presentation": "https://docs.google.com/presentation/d/1T70Jl_VvaEIo0cxfrMOGHwV001HxUl37/present?slide=id.p1"
     },
     "OFH-0001": {
         "title": "Office hours: Architecture Design with Koin",
