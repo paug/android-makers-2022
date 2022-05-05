@@ -607,7 +607,8 @@
         "complexity": "Beginner",
         "speakers": [
             "7db892d8db121e3c2b47441a73d08b125029431e"
-        ]
+        ],
+        "presentation": "https://speakerdeck.com/titooan/set-up-an-android-ci-using-github-actions"
     },
     "QLZ-2276": {
         "title": "Behind the scene, a dive into the Window Manager",
