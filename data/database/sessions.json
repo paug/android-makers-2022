@@ -249,7 +249,7 @@
         "speakers": [
             "ab12cba820c3cdd5f9ac0dd86acc8be4360308bd"
         ],
-        "presentation": "https://docs.google.com/presentation/d/1Jxhe7FuJIBVBShKTDGulSl68LYiTruSP_gp7sVUtvr4/present?slide=id.p9"
+        "presentation": "https://speakerdeck.com/antoinedroid/architecture-to-build-an-app-or-a-house-its-important-but-what-is-that-concretely"
     },
     "SFM-4681": {
         "title": "The definitive guide to Android library development",
@@ -377,7 +377,8 @@
         "complexity": "Beginner",
         "speakers": [
             "24f7fbc170f9551fd4e319336666bcbffb34daa4"
-        ]
+        ],
+      "presentation": "https://drive.google.com/file/d/1zx7OIkbcM9bJ-GVn1hVd5Cst7FK5IhwF/view?usp=sharing"
     },
     "RVJ-5513": {
         "title": "Lazy and amazy - Lazy layouts in Compose",
