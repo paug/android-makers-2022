@@ -236,7 +236,8 @@
         "speakers": [
             "fb805760b311d7dea7963afcd97f9613303f7722",
             "9cca77d49733a147693723113dfd3cc90da2cb32"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/sandraddev/to-smartphones-and-beyond-screens-everywhere"
     },
     "XDP-9037": {
         "title": "Architecture, to build an app, or a house, it's important. But what is that concretely?",
@@ -440,7 +441,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "b8d83561356c738cced6e5ad7075b14744f644bd"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/francois_blavoet/jetpack-compose-plus-design-systems"
     },
     "CQY-3449": {
         "title": "Win the hearts of Chrome OS users - How to adapt your Android app",
