@@ -412,7 +412,7 @@
             "Android Development"
         ],
         "language": "English",
-        "description": "Ktor is a Kotlin framework dedicated to building asynchronous servers and clients in connected systems. In this session, I will explain and demo the core concepts of Ktor 2 by live coding an HTTP server from scratch using Ktor Server. Also, we'll take an overview of Ktor Client, from setting it up to making requests and installing plugins.",
+        "description": "Ktor is a Kotlin framework dedicated to building asynchronous servers and clients in connected systems. In this session, I will explain and demo the core concepts of Ktor 2 by live coding an HTTP server from scratch using Ktor Server. Also, we'll take an overview of Ktor Client, from setting it up to making requests and installing plugins.\n\n***Repository link: https://github.com/renaudmathieu/ktor-sample***",
         "complexity": "Beginner",
         "speakers": [
             "f1ccb89c189cf8565f3b9c96ea718f44ef227172"
