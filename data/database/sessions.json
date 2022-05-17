@@ -469,7 +469,8 @@
         "speakers": [
             "85525b634cb11f3cf25a55f73903a92460b7778e",
             "452bd8feee2751b292fda917b98cef8b242503d6"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/kikoso/android-benchmarking-and-other-stories"
     },
     "AHE-2868": {
         "title": "Exit les scripts, on se créé un plugin Android Studio ?",
