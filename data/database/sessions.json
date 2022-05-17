@@ -314,7 +314,8 @@
         "complexity": "Beginner",
         "speakers": [
             "261f7a484edbadf864016e371f31f749475178d6"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/iamliam/the-future-of-design-is-still-personal-reaching-toward-true-adaptation"
     },
     "JAD-6398": {
         "title": "Improve Build Times in Less Time",
@@ -638,7 +639,8 @@
         "complexity": "Intermediate",
         "speakers": [
             "e36f716f289dd08cc5c7fdf707c78c11e4b7a7ae"
-        ]
+        ],
+      "presentation": "https://speakerdeck.com/yrezgui/android-makers-2022-explaining-scoped-storage"
     },
     "TWW-8613": {
         "title": "How do YOU compare to others in Mobile DevOps Performance, Productivity, and Maturity?",
