@@ -74,7 +74,7 @@
   },
   "devDependencies": {
     "@firebase/logger": "^0.3.2",
-    "@firebase/rules-unit-testing": "^2.0.1",
+    "@firebase/rules-unit-testing": "^2.0.5",
     "@firebase/util": "^1.4.2",
     "@jest/globals": "^27.3.1",
     "@jest/types": "^27.4.2",
