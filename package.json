@@ -78,7 +78,7 @@
     "@firebase/util": "^1.4.2",
     "@jest/globals": "^27.3.1",
     "@jest/types": "^27.4.2",
-    "@rollup/plugin-node-resolve": "^13.0.6",
+    "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^8.3.0",
     "@stylelint/postcss-css-in-js": "^0.37.2",
     "@testing-library/dom": "^8.11.0",
