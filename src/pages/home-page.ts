@@ -155,49 +155,16 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <div class="info-items">
             <div class="info-item">{$ location.city $}. {$ dates $}</div>
             <div class="info-item">{$ heroSettings.home.description $}</div>
-            
-            <a href="https://androidmakers.droidcon.com/">
-            <paper-button
-              primary
-            >
-              Go to 2023 website
-            </paper-button>
-            </a>
           </div>
 
           <div class="action-buttons" layout horizontal center-justified wrap>
 
-
-            <a href="{$ linkEventbrite $}">
+            <a href="https://androidmakers.droidcon.com/">
             <paper-button
-              on-click="_scrollToTickets"
-              ga-on="click"
-              ga-event-category="tickets"
-              ga-event-action="scroll"
-              ga-event-label="hero block - scroll to tickets"
               primary
-              invert
             >
               <iron-icon icon="hoverboard:ticket"></iron-icon>
-              {$ buyTicket $}
-            </paper-button>
-            </a>
-
-            <a href="{$ linkBecomeASponsor $}">
-            <paper-button
-              primary
-            >
-              <iron-icon icon="hoverboard:work"></iron-icon>
-              {$ becomeASponsor $}
-            </paper-button>
-            </a>
-
-            <a href="{$ linkCallForMakers $}">
-            <paper-button
-              primary
-            >
-              <iron-icon icon="hoverboard:presentation"></iron-icon>
-              {$ callForMakers $}
+              Go to 2023 website
             </paper-button>
             </a>
 
