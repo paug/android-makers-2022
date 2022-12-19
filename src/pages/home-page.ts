@@ -155,9 +155,18 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <div class="info-items">
             <div class="info-item">{$ location.city $}. {$ dates $}</div>
             <div class="info-item">{$ heroSettings.home.description $}</div>
+            
+            <a href="https://androidmakers.droidcon.com/">
+            <paper-button
+              primary
+            >
+              Go to 2023 website
+            </paper-button>
+            </a>
           </div>
 
           <div class="action-buttons" layout horizontal center-justified wrap>
+
 
             <a href="{$ linkEventbrite $}">
             <paper-button
